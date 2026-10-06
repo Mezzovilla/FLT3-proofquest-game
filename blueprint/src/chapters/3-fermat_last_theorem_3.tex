@@ -663,9 +663,10 @@
   Therefore, we can conclude that $p$ is associated with $\lambda$.
 \end{proof}
 
-\begin{definition}[$x,y,z,w$]
+\begin{definition}[$y,z,w$]
   \label{def:Solution_x_y_z_w}
   %\lean{}
+  \lean{Solution.y, Solution.z, Solution.w}
   \leanok
   \uses{def:Solution}
   Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
@@ -675,10 +676,24 @@
   Let $\eta \in \cc{O}_K$ be the element corresponding to $\zeta_3 \in K$. \\
   Let $\lambda \in \cc{O}_K$ be such that $\lambda = \eta -1$. \\
   Let $S=(a, b, c, u)$ be a $solution$.\\\\
-  We define $x \in \cc{O}_K$ such that $a + b = \lambda^{3n-2}  x$.\\
   We define $y \in \cc{O}_K$ such that $a + \eta  b = \lambda  y$.\\
   We define $z \in \cc{O}_K$ such that $a + \eta^2  b = \lambda  z$.\\
   We define $w \in \cc{O}_K$ such that $c = \lambda^n  w$.
+\end{definition}
+
+\begin{definition}[$x$]
+  \label{def:Solution_x}
+  \lean{Solution.x}
+  \leanok
+  \uses{def:Solution, lmm:lambda_pow_dvd_a_add_b}
+  Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
+  Let $\cc{O}_K = \Z[\zeta_3]$ be the ring of integers of $K$. \\
+  Let $\cc{O}^\times_K$ be the group of units of $\cc{O}_K$. \\
+  Let $\zeta_3 \in K$ be any primitive third root of unity. \\
+  Let $\eta \in \cc{O}_K$ be the element corresponding to $\zeta_3 \in K$. \\
+  Let $\lambda \in \cc{O}_K$ be such that $\lambda = \eta -1$. \\
+  Let $S=(a, b, c, u)$ be a $solution$.\\\\
+  We define $x \in \cc{O}_K$ such that $a + b = \lambda^{3n-2}  x$.
 \end{definition}
 
 \begin{lemma}
@@ -807,7 +822,7 @@
   \label{lmm:coprime_x_y}
   \lean{Solution.coprime_x_y}
   \leanok
-  \uses{def:Solution, def:Solution_x_y_z_w}
+  \uses{def:Solution, def:Solution_x_y_z_w, def:Solution_x}
   Let $S$ be a $solution$ with multiplicity $n$.\\\\
   Then $\gcd(x,y) = 1$.
 \end{lemma}
@@ -829,7 +844,7 @@
   \label{lmm:coprime_x_z}
   \lean{Solution.coprime_x_z}
   \leanok
-  \uses{def:Solution, def:Solution_x_y_z_w}
+  \uses{def:Solution, def:Solution_x_y_z_w, def:Solution_x}
   Let $S$ be a $solution$.\\\\
   Then $\gcd(x,z) = 1$.
 \end{lemma}
@@ -888,15 +903,16 @@
   \label{lmm:x_mul_y_mul_z_eq_u_w_pow_three}
   \lean{Solution.x_mul_y_mul_z_eq_u_w_pow_three}
   \leanok
-  \uses{def:Solution, def:Solution_x_y_z_w}
+  \uses{def:Solution, def:Solution_x_y_z_w, def:Solution_x}
   Let $S=(a,b,c,u)$ be a $solution$.\\\\
   Then $x y z = u w^3$.
 \end{lemma}
 \begin{proof}
   \leanok
   \uses{lmm:Solution_two_le_multiplicity, lmm:lambda_ne_zero, lmm:cube_add_cube_eq_mul,
-  def:Solution_x_y_z_w}
-  It directly follows from \Cref{def:Solution_x_y_z_w}, \Cref{lmm:cube_add_cube_eq_mul},
+  def:Solution_x_y_z_w, def:Solution_x}
+  It directly follows from \Cref{def:Solution_x_y_z_w}, \Cref{def:Solution_x},
+  \Cref{lmm:cube_add_cube_eq_mul},
   \Cref{lmm:lambda_ne_zero}, \Cref{lmm:Solution_two_le_multiplicity} and
   calculations using ring properties.
 \end{proof}
@@ -958,9 +974,10 @@
   then $\gcd(z,xy)=1$, which implies that $\gcd(z,k)=1$.
 \end{proof}
 
-\begin{definition}[$u_1,u_2,u_3,u_4,u_5,X,Y,Z$]
+\begin{definition}[$u_1,u_2,u_3,X,Y,Z$]
   \label{def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
   %\lean{}
+  \lean{Solution.u₁, Solution.u₂, Solution.u₃, Solution.X, Solution.Y, Solution.Z}
   \leanok
   \uses{def:Solution, lmm:x_eq_unit_mul_cube,
   lmm:y_eq_unit_mul_cube, lmm:z_eq_unit_mul_cube}
@@ -971,8 +988,6 @@
   such that $y = u_2 Y^3$.\\
   We define $u_3 \in \cc{O}^\times_K$ and $Z \in \cc{O}_K$
   such that $z = u_3 Z^3$.\\
-  We define $u_4 = \eta u_3 u_2^{-1}$.\\
-  We define $u_5 = -\eta^2 u_1 u_2^{-1}$.\\
 \end{definition}
 
 \begin{lemma}
@@ -1099,9 +1114,9 @@
 \end{lemma}
 \begin{proof}
   \leanok
-  \uses{def:Solution_u1_u2_u3_u4_u5_X_Y_Z, def:Solution_x_y_z_w,
+  \uses{def:Solution_u1_u2_u3_u4_u5_X_Y_Z,
   lmm:toInteger_cube_eq_one, lmm:toInteger_eval_cyclo}
-  Applying \Cref{def:Solution_u1_u2_u3_u4_u5_X_Y_Z}, \Cref{def:Solution_x_y_z_w},
+  Applying \Cref{def:Solution_u1_u2_u3_u4_u5_X_Y_Z},
   \Cref{lmm:toInteger_cube_eq_one} and \Cref{lmm:toInteger_eval_cyclo}, we have
   \begin{align*}
       u_1 X^3 \lambda^{3n-2}+u_2 \eta Y^3 \lambda + u_3 \eta^2 Z^3 \lambda
@@ -1113,46 +1128,77 @@
   \end{align*}
 \end{proof}
 
+\begin{definition}[$u_4',u_5'$]
+  \label{def:Solution_u4_u5_prime}
+  \lean{Solution.u₄', Solution.u₅'}
+  \leanok
+  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  Let $S$ be a $solution$.\\\\
+  We define $u_4' = \eta u_3 u_2^{-1}$.\\
+  We define $u_5' = -\eta^2 u_1 u_2^{-1}$.\\
+\end{definition}
+
 \begin{lemma}
   \label{lmm:u₄_isUnit}
   \lean{Solution.u₄'_isUnit}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u4_u5_prime}
   Let $S$ be a $solution$.\\\\
-  Then $u_4$ is a unit.
+  Then $u_4'$ is a unit.
 \end{lemma}
 \begin{proof}
   \leanok
-  \uses{def:Solution_u1_u2_u3_u4_u5_X_Y_Z, lmm:eta_isUnit}
-  By \Cref{def:Solution_u1_u2_u3_u4_u5_X_Y_Z} $u_4 = \eta u_3 u_2^{-1}$,
+  \uses{def:Solution_u4_u5_prime, lmm:eta_isUnit}
+  By \Cref{def:Solution_u4_u5_prime} $u_4' = \eta u_3 u_2^{-1}$,
   which is a product of units by \Cref{lmm:eta_isUnit}.
   Since the product of units is a unit (multiplicative closure),
-  it follows that $u_4$ must also be a unit.
+  it follows that $u_4'$ must also be a unit.
 \end{proof}
+
+\begin{definition}[$u_4$]
+  \label{def:Solution_u4}
+  \lean{Solution.u₄}
+  \leanok
+  \uses{def:Solution_u4_u5_prime, lmm:u₄_isUnit}
+  Let $S$ be a $solution$.\\\\
+  We define $u_4 \in \cc{O}^\times_K$ as the unit corresponding
+  to the unit ring element $u_4'$.
+\end{definition}
 
 \begin{lemma}
   \label{lmm:u₅_isUnit}
   \lean{Solution.u₅'_isUnit}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u4_u5_prime}
   Let $S$ be a $solution$.\\\\
-  Then $u_5$ is a unit.
+  Then $u_5'$ is a unit.
 \end{lemma}
 \begin{proof}
   \leanok
   \uses{lmm:toInteger_cube_eq_one}
-  By \Cref{def:Solution_u1_u2_u3_u4_u5_X_Y_Z} $u_5 = -\eta^2 u_1 u_2^{-1}$,
+  By \Cref{def:Solution_u4_u5_prime} $u_5' = -\eta^2 u_1 u_2^{-1}$,
   which is a product of units since $\eta^3 = 1$ by \Cref{lmm:toInteger_cube_eq_one} and
   $-\eta (-\eta^2) = \eta^3$.
   Since the product of units is a unit (multiplicative closure),
-  it follows that $u_5$ must also be a unit.
+  it follows that $u_5'$ must also be a unit.
 \end{proof}
+
+\begin{definition}[$u_5$]
+  \label{def:Solution_u5}
+  \lean{Solution.u₅}
+  \leanok
+  \uses{def:Solution_u4_u5_prime, lmm:u₅_isUnit}
+  Let $S$ be a $solution$.\\\\
+  We define $u_5 \in \cc{O}^\times_K$ as the unit corresponding
+  to the unit ring element $u_5'$.
+\end{definition}
 
 \begin{lemma}
   \label{lmm:formula2}
   \lean{Solution.formula2}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z,
+  def:Solution_u4_u5_prime, def:Solution_u4, def:Solution_u5}
   Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
   Let $\cc{O}_K = \Z[\zeta_3]$ be the ring of integers of $K$. \\
   Let $\cc{O}^\times_K$ be the group of units of $\cc{O}_K$. \\
@@ -1195,7 +1241,7 @@
   \label{lmm:lambda_sq_div_new_X_cubed}
   \lean{Solution.lambda_sq_div_new_X_cubed}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z, def:Solution_u5}
   Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
   Let $\cc{O}_K = \Z[\zeta_3]$ be the ring of integers of $K$. \\
   Let $\cc{O}^\times_K$ be the group of units of $\cc{O}_K$. \\
@@ -1216,7 +1262,7 @@
   \label{lmm:by_kummer}
   \lean{Solution.by_kummer}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u4}
   Let $S$ be a $solution$.\\\\
   Then $u_4 \in \set{-1,1} \subset \cc{O}_K$.
 \end{lemma}
@@ -1261,7 +1307,8 @@
   \label{lmm:final}
   \lean{Solution.final}
   \leanok
-  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
+  \uses{def:Solution, def:Solution_u1_u2_u3_u4_u5_X_Y_Z,
+  def:Solution_u4, def:Solution_u5}
   Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
   Let $\cc{O}_K = \Z[\zeta_3]$ be the ring of integers of $K$. \\
   Let $\cc{O}^\times_K$ be the group of units of $\cc{O}_K$. \\
@@ -1283,7 +1330,8 @@
   \label{def:Solution1_final}
   \lean{Solution'_final}
   \leanok
-  \uses{def:Solution1, def:Solution_u1_u2_u3_u4_u5_X_Y_Z, lmm:Solution_two_le_multiplicity,
+  \uses{def:Solution1, def:Solution_u1_u2_u3_u4_u5_X_Y_Z, def:Solution_u4,
+  def:Solution_u5, lmm:Solution_two_le_multiplicity,
   lmm:final, lmm:coprime_Y_Z, lmm:lambda_not_dvd_Y, lmm:lambda_not_dvd_Z, lmm:lambda_ne_zero,
   lmm:X_ne_zero}
   Let $K = \Q(\zeta_3)$ be the third cyclotomic field. \\
@@ -1301,7 +1349,7 @@
   \label{lmm:Solution1_final_multiplicity}
   \lean{Solution'_final_multiplicity}
   \leanok
-  \uses{def:Solution, def:Solution1_final}
+  \uses{def:Solution, def:Solution1_final, def:Solution_u1_u2_u3_u4_u5_X_Y_Z}
   Let $S$ be a $solution$ with multiplicity $n$.\\\\
   Then $S_f'$ has multiplicity $n-1$.
 \end{lemma}
