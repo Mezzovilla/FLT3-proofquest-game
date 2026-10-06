@@ -1,0 +1,3840 @@
+msgid ""
+msgstr "Project-Id-Version: Game v4.7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon Oct  5 19:57:00 2026\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: GameServer.RpcHandlers
+msgid "level completed! 🎉"
+msgstr ""
+
+#: GameServer.RpcHandlers
+msgid "level completed with warnings… 🎭"
+msgstr ""
+
+#: GameServer.RpcHandlers
+msgid "intermediate goal solved! 🎉"
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.discr_prime_pow_eq_unit_mul_pow'`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.isIntegralClosure_adjoin_singleton_of_prime_pow`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.adjoinEquivRingOfIntegers`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.IsCyclotomicExtension.ringOfIntegers`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.integralPowerBasis`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.toInteger`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.integralPowerBasis_gen`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.adjoinEquivRingOfIntegers'`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.ring_of_integers'`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.absdiscr_prime_pow`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.absdiscr_prime_pow_succ`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.absdiscr_prime`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.nrRealPlaces_eq_zero`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.nrComplexPlaces_eq_totient_div_two`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.three_pid`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.torsion`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l115`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.coe_injective`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.coe_pow`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.coe_one`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.mem_torsion`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l118`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l129`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l132`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.w₀`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.logEmbedding`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.unitLattice`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.coe_ne_zero`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `Rat.RingOfIntegers.isUnit_iff`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.isUnit_iff_norm`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.sum_logEmbedding_component`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.logEmbedding_component_le`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.logEmbedding_component`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.log_le_of_logEmbedding_le`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.unitLattice_inter_ball_finite`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.instDiscrete_unitLattice`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq_next`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq_ne_zero`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq_decreasing`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq_norm_le`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.seq_norm_ne_zero`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.exists_unit`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.unitLattice_span_eq_top`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.instZlattice_unitLattice`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.mult_log_place_eq_zero`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.dirichletUnitTheorem.logEmbedding_eq_zero_iff`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.unitLatticeEquiv`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l510`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l513`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l519`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units._instance_m464c54332e4d6174686c69622e4e756d6265725468656f72792e4e756d6265724669656c642e556e697473_l532`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsCyclotomicExtension.Rat.Three._instance_m464c54332e4379636c6f_l177`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.zeta_sub_one_prime_of_two_pow`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.zeta_sub_one_prime_of_ne_two`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.zeta_sub_one_prime`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `FermatLastTheoremWith`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.rank`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.finrank_eq_rank`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.unitLattice_rank`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.rank_modTorsion`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.basisModTorsion`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.fundSystem`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.fun_eq_repr`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `NumberField.Units.exist_unique_eq_mul_prod`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.integralPowerBasis'`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.integralPowerBasis_dim`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.power_basis_int'_dim`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `IsPrimitiveRoot.integralPowerBasis'_gen`."
+msgstr ""
+
+#: Game.Generated.Defs
+msgid "Definition `FermatLastTheoremFor`."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `simpa` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`intro x` introduces a variable or hypothesis from the goal."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `let` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `obtain` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`simp` simplifies the goal using simp lemmas."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`rw [h]` rewrites the goal using the equality `h`."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `refine` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`have h : t := e` introduces a new hypothesis `h : t` proved by `e`."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `dsimp` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`rfl` proves goals of the form `a = a` (definitional equality)."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`apply t` matches the goal against the conclusion of `t` and creates goals for its hypotheses."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `congr` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `infer_instance` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `norm_cast` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `rcases` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `left` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `right` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `show` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `linarith` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `norm_num` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`exact e` closes the goal if `e` is a proof of it."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `ring` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `ext` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `suffices` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `calc` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `contradiction` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `rwa` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `exact_mod_cast` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `by_cases` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `by_contra` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `use` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `tauto` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`omega` solves linear arithmetic goals over `Nat` and `Int`."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`unfold f` unfolds the definition of `f` in the goal."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "The `ring_nf` tactic."
+msgstr ""
+
+#: Game.Generated.TacticDocs
+msgid "`constructor` splits a goal built from a structure (like `∧`) into one goal per field."
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Generated.TheoremDocs
+msgid "[[mathlib_doc]]"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L01_zeta_sub_one_prime'
+msgid "zeta_sub_one_prime'"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L01_zeta_sub_one_prime'
+msgid "Let $p \\in \\N$ be prime. \\\\\\\\\n"
+"If $\\zeta_p$ is a primitive $p$-th root of unity, then $\\zeta_p - 1$ is prime."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L01_zeta_sub_one_prime'
+msgid "Let $p \\in \\N$ be prime. \\\\\\\\\n"
+"If $\\zeta_p$ is a primitive $p$-th root of unity, then $\\zeta_p - 1$ is prime."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L01_zeta_sub_one_prime'
+msgid "This has already been formalised and included in \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Rat.html#IsPrimitiveRoot.zeta_sub_one_prime'}{Mathlib}."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L01_zeta_sub_one_prime'
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L02_fermatLastTheoremWith_of_fermatLastTheoremWith_coprime
+msgid "fermatLastTheoremWith_of_fermatLastTheoremWith_coprime"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L02_fermatLastTheoremWith_of_fermatLastTheoremWith_coprime
+msgid "Let $R$ be a commutative semiring, domain and normalised $\\gcd$ monoid.\\% ASK EXPERTS\n"
+"Let $a, b, c \\in R$. \\\\\n"
+"Let $n \\in \\N$. \\\\\\\\\n"
+"Then, to prove Fermat's Last Theorem for exponent $n$ in $R$,\n"
+"one can assume, without loss of generality, that $\\gcd(a,b,c)=1$."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L02_fermatLastTheoremWith_of_fermatLastTheoremWith_coprime
+msgid "Let $R$ be a commutative semiring, domain and normalised $\\gcd$ monoid.\\% ASK EXPERTS\n"
+"Let $a, b, c \\in R$. \\\\\n"
+"Let $n \\in \\N$. \\\\\\\\\n"
+"Then, to prove Fermat's Last Theorem for exponent $n$ in $R$,\n"
+"one can assume, without loss of generality, that $\\gcd(a,b,c)=1$."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L02_fermatLastTheoremWith_of_fermatLastTheoremWith_coprime
+msgid "This has already been formalised and included in \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/FLT/Basic.html#fermatLastTheoremWith_of_fermatLastTheoremWith_coprime}{Mathlib}."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L02_fermatLastTheoremWith_of_fermatLastTheoremWith_coprime
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L03_cube_of_castHom_ne_zero
+msgid "cube_of_castHom_ne_zero"
+msgstr ""
+
+#: Game.Levels.Preliminaries.L03_cube_of_castHom_ne_zero
+msgid "Let $\\Z_9$ be the ring of integers modulo $9$. \\\\\n"
+"Let $\\Z_3$ be the ring of integers modulo $3$. \\\\\n"
+"Let $n \\in \\Z_9$. \\\\\n"
+"Let $\\phi : \\Z_9 \\to \\Z_3$ be the canonical ring homomorphism. \\\\\n"
+"Let $\\phi(n) \\neq 0$. \\\\ \\\\\n"
+"Then $n^3=1 \\lor n^3=8$."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L03_cube_of_castHom_ne_zero
+msgid "Let $\\Z_9$ be the ring of integers modulo $9$. \\\\\n"
+"Let $\\Z_3$ be the ring of integers modulo $3$. \\\\\n"
+"Let $n \\in \\Z_9$. \\\\\n"
+"Let $\\phi : \\Z_9 \\to \\Z_3$ be the canonical ring homomorphism. \\\\\n"
+"Let $\\phi(n) \\neq 0$. \\\\ \\\\\n"
+"Then $n^3=1 \\lor n^3=8$."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L03_cube_of_castHom_ne_zero
+msgid "This has already been formalised and included in \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/FLT/Three.html#cube_of_castHom_ne_zero}{Mathlib}."
+msgstr ""
+
+#: Game.Levels.Preliminaries.L03_cube_of_castHom_ne_zero
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.Preliminaries
+msgid "Preliminaries"
+msgstr ""
+
+#: Game.Levels.Preliminaries
+msgid "This chapter provides the necessary prerequisites used throughout this project.\n"
+"We begin by introducing the notation that will be employed, followed by essential definitions and\n"
+"preliminary results required for formalising our arguments."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L01_Units_mem
+msgid "Units.mem"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L01_Units_mem
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $u \\in \\cc{O}^\\times_K$ be a unit. \\\\\\\\\n"
+"Then $u \\in \\set{1, -1, \\eta, -\\eta, \\eta^2, -\\eta^2}$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L01_Units_mem
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $u \\in \\cc{O}^\\times_K$ be a unit. \\\\\\\\\n"
+"Then $u \\in \\set{1, -1, \\eta, -\\eta, \\eta^2, -\\eta^2}$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L01_Units_mem
+msgid "Let $\\cc{F}$ be the fundamental system of $K$. \\\\\n"
+"By properties of cyclotomic fields, we know that $\\rank{K} = 0$\n"
+"(see \\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/NumberTheory/NumberField/Embeddings.html#NumberField.InfinitePlace.card_eq_nrRealPlaces_add_nrComplexPlaces}{this lemma},\n"
+"\\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Embeddings.html#IsCyclotomicExtension.Rat.nrRealPlaces_eq_zero}{this lemma}\n"
+"and \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Embeddings.html#IsCyclotomicExtension.Rat.nrComplexPlaces_eq_totient_div_two}{this lemma}\n"
+"which have already been formalised and included in Mathlib).\n"
+"By the Dirichlet Unit Theorem (see \\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/NumberTheory/NumberField/Units.html#NumberField.Units.exist_unique_eq_mul_prod}{Mathlib}),\n"
+"we know that\n"
+"$$\\exists x \\in K \\text{ with finite order, such that } u = x \\prod_{v\\in\\cc{F}} v,$$\n"
+"but since $\\rank{K} = 0$, then $\\cc{F} = \\emptyset$, which implies that $u = x$.\\\\\n"
+"Since $u = x$ has finite order, by properties of primitive roots\n"
+"(see \\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/NumberTheory/Cyclotomic/PrimitiveRoots.html#IsPrimitiveRoot.exists_pow_or_neg_mul_pow_of_isOfFinOrder}{this lemma}\n"
+"that has already been formalised and included in Mathlib), we can deduce that\n"
+"$$\\exists r < 3 \\text{ such that } u = \\eta^r \\lor u = -\\eta^r.$$\n"
+"Therefore, we can conclude\n"
+"$$u \\in \\setb{\\pm \\eta^r}{r \\in \\set{0,1,2}} = \\set{1, -1, \\eta, -\\eta, \\eta^2, -\\eta^2}.$$"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L01_Units_mem
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L02_Units_not_exists_int_three_dvd_sub
+msgid "Units.not_exists_int_three_dvd_sub"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L02_Units_not_exists_int_three_dvd_sub
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $m \\in \\Z$. \\\\\\\\\n"
+"Then $3 \\notdivides \\eta - m$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L02_Units_not_exists_int_three_dvd_sub
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $m \\in \\Z$. \\\\\\\\\n"
+"Then $3 \\notdivides \\eta - m$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L02_Units_not_exists_int_three_dvd_sub
+msgid "By properties of cyclotomic fields, we know that $\\set{1,\\eta}$ is an integral power basis of $\\cc{O}_K$\n"
+"(see \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Rat.html#IsPrimitiveRoot.integralPowerBasis'}{this lemma},\n"
+"\\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Rat.html#IsPrimitiveRoot.power_basis_int'_dim}{this lemma}\n"
+"and \\href{https://pitmonticone.github.io/FLT3/docs/FLT3/Mathlib/NumberTheory/Cyclotomic/Rat.html#IsPrimitiveRoot.integralPowerBasis'_gen}{this lemma}\n"
+"which have already been formalised and included in Mathlib).\\\\\n"
+"For every $\\xi \\in \\cc{O}_K$, we define $\\pi_1(\\xi)$ and $\\pi_2(\\xi)$ to be the first and second\n"
+"coordinates of $\\xi$ with respect to the basis $\\set{1,\\eta} \\in \\cc{O}_K$, i.e.\n"
+"$$\\xi = \\pi_1(\\xi) + \\pi_2(\\xi)\\eta.$$\n"
+"By contradiction we assume that\n"
+"$$\\exists m \\in \\Z \\text{ such that } 3 \\divides \\eta - m,$$\n"
+"which implies that\n"
+"$$\\exists x \\in \\cc{O}_K \\text{ such that } \\eta - m = 3 x.$$\n"
+"By linearity of $\\pi_2$,\n"
+"$$\\pi_2(\\eta) = \\pi_2(3x + m) = 3\\pi_2(x) + \\pi_2(m).$$\n"
+"Since $\\pi_2(\\eta) = 1$ and $\\pi_2(m) = 0$, then we have that $3 \\divides 1$, which is a contradiction."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L02_Units_not_exists_int_three_dvd_sub
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L03_lambda_sq
+msgid "lambda_sq"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L03_lambda_sq
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda^2 = -3 \\eta$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L03_lambda_sq
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda^2 = -3 \\eta$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L03_lambda_sq
+msgid "By definition we have that $\\lambda = \\eta -1$, which implies that\n"
+"$$\\lambda^2 = (\\eta - 1)^2 = \\eta^2 - 2\\eta + 1.$$\n"
+"Since $\\eta$ corresponds to a root of the equation $x^2 + x + 1 = 0$, then $\\eta^2 = -1 - \\eta$.\n"
+"Substituting back, we can conclude that\n"
+"$$\\lambda^2 = (-1 - \\eta) - 2\\eta + 1 = -3\\eta.$$"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L03_lambda_sq
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L04_eq_one_or_neg_one_of_unit_of_congruent
+msgid "eq_one_or_neg_one_of_unit_of_congruent"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L04_eq_one_or_neg_one_of_unit_of_congruent
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $u \\in \\cc{O}^\\times_K$ be a unit. \\\\\\\\\n"
+"If $\\exists m \\in \\Z$ such that $\\lambda^2 \\divides u - m$, then\n"
+"$u = 1 \\lor u = -1$. \\\\\n"
+"This is a special case of the Kummer's Lemma."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L04_eq_one_or_neg_one_of_unit_of_congruent
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $u \\in \\cc{O}^\\times_K$ be a unit. \\\\\\\\\n"
+"If $\\exists m \\in \\Z$ such that $\\lambda^2 \\divides u - m$, then\n"
+"$u = 1 \\lor u = -1$. \\\\\n"
+"This is a special case of the Kummer's Lemma."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L04_eq_one_or_neg_one_of_unit_of_congruent
+msgid "By *lmm:lambda_sq*, we have that $-3\\eta = \\lambda^2 \\divides u - m$, which implies that\n"
+"$3 \\divides u - m$.\\\\\n"
+"By *thm:mem*, we know that $u \\in \\set{1, -1, \\eta, -\\eta, \\eta^2, -\\eta^2}$. \\\\\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $u = 1 \\lor u = -1$. This finishes the proof.\n"
+"\\item Case $u = \\eta$.\\\\\n"
+"Since $3 \\divides u - m$, we have that $3 \\divides \\eta - m$, which contradicts\n"
+"*thm:not_exists_int_three_dvd_sub* forcing us to conclude that $u \\neq \\eta$.\n"
+"\\item Case $u = -\\eta$.\\\\\n"
+"Since $3 \\divides u - m$, we have that $3 \\divides - \\eta - m$, then by properties of\n"
+"divisibility $3 \\divides \\eta + m$, which contradicts\n"
+"*thm:not_exists_int_three_dvd_sub* forcing us to conclude that $u \\neq -\\eta$.\n"
+"\\item Case $u = \\eta^2$.\\\\\n"
+"Since $3 \\divides u - m$, we have that $3 \\divides \\eta^2 - m$, which contradicts\n"
+"*thm:not_exists_int_three_dvd_sub* since $\\eta^2$ is a third root of unity\n"
+"(see \\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/RingTheory/RootsOfUnity/Basic.html#IsPrimitiveRoot.pow_of_coprime}{Mathlib}),\n"
+"forcing us to conclude that $u \\neq \\eta^2$.\n"
+"\\item Case $u = -\\eta^2$.\\\\\n"
+"Since $3 \\divides u - m$, we have that $3 \\divides - \\eta^2 - m$, then by properties of\n"
+"divisibility $3 \\divides \\eta^2 + m$, which contradicts\n"
+"*thm:not_exists_int_three_dvd_sub* since $\\eta^2$ is a third root of unity\n"
+"(see \\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/RingTheory/RootsOfUnity/Basic.html#IsPrimitiveRoot.pow_of_coprime}{Mathlib}),\n"
+"forcing us to conclude that $u \\neq -\\eta^2$.\n"
+"\\end{itemize}\n"
+"Therefore, $u = 1 \\lor u = -1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L04_eq_one_or_neg_one_of_unit_of_congruent
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L05_norm_lambda
+msgid "norm_lambda"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L05_norm_lambda
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then the norm of $\\lambda$ is $3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L05_norm_lambda
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then the norm of $\\lambda$ is $3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L05_norm_lambda
+msgid "Since the third cyclotomic polynomial over $\\Q$ is irreducible, then the norm of $\\lambda$ is $3$\n"
+"by properties of primitive roots (see\n"
+"\\href{https://pitmonticone.github.io/FLT3/docs/Mathlib/NumberTheory/Cyclotomic/PrimitiveRoots.html#IsPrimitiveRoot.sub_one_norm_prime}{this lemma}\n"
+"that has already been formalised and included in Mathlib)."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L05_norm_lambda
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L06_norm_lambda_prime
+msgid "norm_lambda_prime"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L06_norm_lambda_prime
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then the norm of $\\lambda$ is a prime number."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L06_norm_lambda_prime
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then the norm of $\\lambda$ is a prime number."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L06_norm_lambda_prime
+msgid "It directly follows from *lmm:norm_lambda* since $3$ is a prime number."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L06_norm_lambda_prime
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L07_lambda_dvd_three
+msgid "lambda_dvd_three"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L07_lambda_dvd_three
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\divides 3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L07_lambda_dvd_three
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\divides 3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L07_lambda_dvd_three
+msgid "By properties of norms and divisibility, if the norm of an element in the ring of integers\n"
+"divides a number, then the element itself must divide that number.\n"
+"In this case, by *lmm:norm_lambda* we know that the norm of $\\lambda$ is $3$, that divides $3$,\n"
+"which implies that $\\lambda \\divides 3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L07_lambda_dvd_three
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L08_lambda_prime
+msgid "lambda_prime"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L08_lambda_prime
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda$ is prime."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L08_lambda_prime
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda$ is prime."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L08_lambda_prime
+msgid "Since $3$ is prime and $\\zeta_3$ is a primitive third root of unity, then $\\lambda$ is prime\n"
+"by *thm:zeta_sub_one_prime1*."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L08_lambda_prime
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L09_lambda_ne_zero
+msgid "lambda_ne_zero"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L09_lambda_ne_zero
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\neq 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L09_lambda_ne_zero
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\neq 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L09_lambda_ne_zero
+msgid "It directly follows from *lmm:lambda_prime* since zero is not prime."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L09_lambda_ne_zero
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L10_lambda_not_unit
+msgid "lambda_not_unit"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L10_lambda_not_unit
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda$ is not a unit."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L10_lambda_not_unit
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda$ is not a unit."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L10_lambda_not_unit
+msgid "It directly follows from *lmm:lambda_prime* since prime numbers are not units."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L10_lambda_not_unit
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L11_card_quot
+msgid "card_quot"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L11_card_quot
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\\\\\n"
+"Then $\\cc{O}_K / I$ has cardinality $3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L11_card_quot
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\\\\\n"
+"Then $\\cc{O}_K / I$ has cardinality $3$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L11_card_quot
+msgid "It directly follows from *lmm:norm_lambda* by the fundamental properties of ideals."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L11_card_quot
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L12_two_ne_zero
+msgid "two_ne_zero"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L12_two_ne_zero
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\n"
+"Let $2 \\in \\cc{O}_K / I$. \\\\\\\\\n"
+"Then $2 \\neq 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L12_two_ne_zero
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\n"
+"Let $2 \\in \\cc{O}_K / I$. \\\\\\\\\n"
+"Then $2 \\neq 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L12_two_ne_zero
+msgid "By contradiction we assume that $2 \\in I$, then, by definition,\n"
+"$\\lambda$ would divide $2 \\in \\cc{O}_K$.\n"
+"Recall from *lmm:norm_lambda* that the norm of $\\lambda$ is $3$.\n"
+"If $\\lambda$ divided $2$, then by properties of divisibility in number fields,\n"
+"the norm of $\\lambda$ would also divide $2$.\n"
+"However $3 \\notdivides 2$ showing a contradiction.\n"
+"Therefore, $\\lambda \\notdivides 2$, then $2 \\notin I$, which implies\n"
+"that $2 \\in \\mathcal{O}_K / I$ is non-zero."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L12_two_ne_zero
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `IsCyclotomicExtension.Rat.Three._instance_m464c54332e4379636c6f_l283`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `IsCyclotomicExtension.Rat.Three._instance_m464c54332e4379636c6f_l286`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `_instance_m464c54332e464c5433_l154`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `_instance_m464c54332e464c5433_l161`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `_instance_m464c54332e464c5433_l163`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `hζ`."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Let $a, b, c \\in \\cc{O}_K$ such that $c \\neq 0$ and $\\gcd(a,b)=1$.\\\\\n"
+"Let $\\lambda \\notdivides a$, $\\lambda \\notdivides b$ and $\\lambda \\divides c$. \\\\\\\\\n"
+"A *solution'* is a tuple $S'=(a, b, c, u)$\n"
+"satisfying the equation $a^3 + b^3 = u c^3.$"
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Let $a, b, c \\in \\cc{O}_K$ such that $c \\neq 0$ and $\\gcd(a,b)=1$.\\\\\n"
+"Let $\\lambda \\notdivides a$, $\\lambda \\notdivides b$, $\\lambda \\divides c$ and\n"
+"$\\lambda^2 \\divides a+b$. \\\\\\\\\n"
+"A *solution* is a tuple $S=(a, b, c, u)$\n"
+"satisfying the equation $a^3 + b^3 = u c^3$."
+msgstr ""
+
+#: Game.Generated.DefsAfter015
+msgid "Definition `FermatLastTheoremForThreeGen`."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L13_lambda_not_dvd_two
+msgid "lambda_not_dvd_two"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L13_lambda_not_dvd_two
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\notdivides 2$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L13_lambda_not_dvd_two
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\\\\\n"
+"Then $\\lambda \\notdivides 2$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L13_lambda_not_dvd_two
+msgid "By contradiction we assume that $\\lambda \\divides 2$, that implies that $2 \\in I$\n"
+"from which it follows that $2 = 0$ contradicting *lmm:two_ne_zero*\n"
+"forcing us to conclude that $\\lambda \\notdivides 2$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L13_lambda_not_dvd_two
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L14_univ_quot
+msgid "univ_quot"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L14_univ_quot
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\\\\\n"
+"Then $\\cc{O}_K / I = \\set{0, 1, -1}$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L14_univ_quot
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $I$ be the ideal generated by $\\lambda$. \\\\\\\\\n"
+"Then $\\cc{O}_K / I = \\set{0, 1, -1}$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L14_univ_quot
+msgid "By *lmm:card_quot*, the cardinality of $\\cc{O}_K / I$ is $3$,\n"
+"so it suffices to prove that $1,-1$ and $0$ are distinct.\\\\\n"
+"We proceed by contradiction analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $1 = -1$. By basic algebraic properties, $1 = -1$ implies that $2 = 0$,\n"
+"which contradicts *lmm:two_ne_zero* forcing us to conclude that $1 \\neq -1$.\n"
+"\\item Case $1 = 0$. Trivial contradiction.\n"
+"\\item Case $-1 = 0$. It implies that $1 = 0$, which is a contradiction.\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L14_univ_quot
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L15_dvd_or_dvd_sub_one_or_dvd_add_one
+msgid "dvd_or_dvd_sub_one_or_dvd_add_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L15_dvd_or_dvd_sub_one_or_dvd_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $(\\lambda \\divides x) \\lor (\\lambda \\divides x-1) \\lor (\\lambda \\divides x+1)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L15_dvd_or_dvd_sub_one_or_dvd_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $(\\lambda \\divides x) \\lor (\\lambda \\divides x-1) \\lor (\\lambda \\divides x+1)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L15_dvd_or_dvd_sub_one_or_dvd_add_one
+msgid "Let $I$ be the ideal generated by $\\lambda$. Let $\\pi : \\cc{O}_K \\to \\cc{O}_K / I$.\\\\\n"
+"By *lmm:univ_quot*, we have that $\\pi(x) \\in \\cc{O}_K / I = \\set{0, 1, -1}$.\\\\\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $\\pi(x) = 0$. By properties of ideals, $\\lambda \\divides x$.\n"
+"\\item Case $\\pi(x) = 1$. Then $0=\\pi(x)-1=\\pi(x-1)$, which, by properties of ideals,\n"
+"implies that $\\lambda \\divides x-1$.\n"
+"\\item Case $\\pi(x) = -1$. Then $0=\\pi(x)+1=\\pi(x+1)$, which, by properties of ideals,\n"
+"implies that $\\lambda \\divides x+1$.\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L15_dvd_or_dvd_sub_one_or_dvd_add_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L16_toInteger_cube_eq_one
+msgid "toInteger_cube_eq_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L16_toInteger_cube_eq_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta^3 = 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L16_toInteger_cube_eq_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta^3 = 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L16_toInteger_cube_eq_one
+msgid "Since $\\zeta_3 \\in K$ is a primitive third root of unity, then $\\zeta_3^3 = 1$.\n"
+"Given that $\\eta \\in \\cc{O}_K$ is the element corresponding to $\\zeta_3 \\in K$, then\n"
+"$\\eta^3 = 1$ by the extension of the field properties into the ring of integers."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L16_toInteger_cube_eq_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L17_eta_isUnit
+msgid "eta_isUnit"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L17_eta_isUnit
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta$ is a unit."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L17_eta_isUnit
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta$ is a unit."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L17_eta_isUnit
+msgid "It directly follows from *lmm:toInteger_cube_eq_one*."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L17_eta_isUnit
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L18_toInteger_eval_cyclo
+msgid "toInteger_eval_cyclo"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L18_toInteger_eval_cyclo
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta^2 + \\eta + 1 = 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L18_toInteger_eval_cyclo
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\\\\\n"
+"Then $\\eta^2 + \\eta + 1 = 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L18_toInteger_eval_cyclo
+msgid "Since $\\eta$ corresponds to a root of the equation $x^2 + x + 1 = 0$,\n"
+"then $\\eta^2 + \\eta + 1 = 0$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L18_toInteger_eval_cyclo
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L19_cube_sub_one
+msgid "cube_sub_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L19_cube_sub_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $x^3 - 1 = (x - 1)(x - \\eta)(x - \\eta^ 2)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L19_cube_sub_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $x^3 - 1 = (x - 1)(x - \\eta)(x - \\eta^ 2)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L19_cube_sub_one
+msgid "Applying *lmm:toInteger_cube_eq_one* and *lmm:toInteger_eval_cyclo*, we have that\n"
+"\\begin{align*}\n"
+"(x - 1)(x - \\eta)(x - \\eta^ 2)\n"
+"&= x^3 - x^2 (\\eta^2 + \\eta + 1) + x (\\eta^2 + \\eta + \\eta^3) - \\eta^3 \\\\\n"
+"&= x^3 - x^2 (\\eta^2 + \\eta + 1) + x (\\eta^2 + \\eta + 1) - 1 \\\\\n"
+"&= x^3 - 1.\n"
+"\\end{align*}"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L19_cube_sub_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L20_lambda_dvd_mul_sub_one_mul_sub_eta_add_one
+msgid "lambda_dvd_mul_sub_one_mul_sub_eta_add_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L20_lambda_dvd_mul_sub_one_mul_sub_eta_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $\\lambda \\divides x(x - 1)(x - (\\eta + 1))$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L20_lambda_dvd_mul_sub_one_mul_sub_eta_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"Then $\\lambda \\divides x(x - 1)(x - (\\eta + 1))$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L20_lambda_dvd_mul_sub_one_mul_sub_eta_add_one
+msgid "By *lmm:dvd_or_dvd_sub_one_or_dvd_add_one*, we have that\n"
+"$$(\\lambda \\divides x) \\lor (\\lambda \\divides x-1) \\lor (\\lambda \\divides x+1).$$\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $\\lambda \\divides x$. \\\\\n"
+"By properties of divisibility, we have that\n"
+"$\\lambda \\divides x(x - 1)(x - (\\eta + 1))$.\n"
+"\\item Case $\\lambda \\divides x-1$. \\\\\n"
+"By properties of divisibility, we have that\n"
+"$\\lambda \\divides x(x - 1)(x - (\\eta + 1))$.\n"
+"\\item Case $\\lambda \\divides x+1$.\\\\\n"
+"By properties of divisibility, it suffices to prove that\n"
+"$$\\lambda \\divides x - (\\eta + 1) = x + 1 - (\\eta - 1 + 3).$$\n"
+"By definition of $\\lambda$, we have that\n"
+"$$x + 1 - (\\eta - 1 + 3) = x + 1 - (\\lambda + 3).$$\n"
+"By properties of divisibility and *lmm:lambda_dvd_three*, we can deduce that\n"
+"$\\lambda \\divides \\lambda + 3$.\\\\\n"
+"Therefore, by properties of divisibility, we can conclude that\n"
+"$$\\lambda \\divides x(x - 1)(x - (\\eta + 1)).$$\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L20_lambda_dvd_mul_sub_one_mul_sub_eta_add_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L21_lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one
+msgid "lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L21_lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda\\divides x - 1$, then $\\lambda^ 4 \\divides x^3 - 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L21_lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda\\divides x - 1$, then $\\lambda^ 4 \\divides x^3 - 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L21_lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one
+msgid "Let $\\lambda \\divides x - 1$, which is equivalent to say that\n"
+"$$\\exists y\\in \\cc{O}_K \\text{ such that } x - 1 = \\lambda y.$$\n"
+"By ring properties and *lmm:cube_sub_one*, we have that\n"
+"$$x^3 - 1 = \\lambda^3 (y (y - 1) (y - (\\eta + 1))).$$\n"
+"By properties of divisibility and *lmm:lambda_dvd_mul_sub_one_mul_sub_eta_add_one*,\n"
+"we can conclude that $$\\lambda^ 4 \\divides x^3 - 1.$$"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L21_lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L22_lambda_pow_four_dvd_cube_add_one_of_dvd_add_one
+msgid "lambda_pow_four_dvd_cube_add_one_of_dvd_add_one"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L22_lambda_pow_four_dvd_cube_add_one_of_dvd_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda \\divides x + 1$, then $\\lambda^4 \\divides x ^ 3 + 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L22_lambda_pow_four_dvd_cube_add_one_of_dvd_add_one
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda \\divides x + 1$, then $\\lambda^4 \\divides x ^ 3 + 1$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L22_lambda_pow_four_dvd_cube_add_one_of_dvd_add_one
+msgid "By properties of divisibility, if $\\lambda \\divides x + 1$\n"
+"then $$\\lambda \\divides - (x + 1) = (- x) - 1.$$\n"
+"By *lmm:lambda_dvd_mul_sub_one_mul_sub_eta_add_one*, we can deduce that\n"
+"$$\\lambda^ 4 \\divides (-x)^3 - 1.$$\n"
+"By divisibility and ring properties we can conclude that $$\\lambda^ 4 \\divides x^3 + 1.$$"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L22_lambda_pow_four_dvd_cube_add_one_of_dvd_add_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L23_lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd
+msgid "lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L23_lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda \\notdivides x$, then $(\\lambda^4 \\divides x^3 - 1)\n"
+"\\lor (\\lambda^4 \\divides x^3 + 1)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L23_lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $x \\in \\cc{O}_K$. \\\\\\\\\n"
+"If $\\lambda \\notdivides x$, then $(\\lambda^4 \\divides x^3 - 1)\n"
+"\\lor (\\lambda^4 \\divides x^3 + 1)$."
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L23_lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd
+msgid "By *lmm:dvd_or_dvd_sub_one_or_dvd_add_one*, we have that\n"
+"$$(\\lambda \\divides x) \\lor (\\lambda \\divides x-1) \\lor (\\lambda \\divides x+1).$$\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $\\lambda \\divides x$. From trivially contradictory hypotheses we can conclude that\n"
+"$$(\\lambda^4 \\divides x^3 - 1) \\lor (\\lambda^4 \\divides x^3 + 1).$$\n"
+"\\item Case $\\lambda \\divides x-1$. By *lmm:lambda_pow_four_dvd_cube_sub_one_of_dvd_sub_one*,\n"
+"we have that $\\lambda^ 4 \\divides x^3 - 1$, which implies that\n"
+"$$(\\lambda^4 \\divides x^3 - 1) \\lor (\\lambda^4 \\divides x^3 + 1).$$\n"
+"\\item Case $\\lambda \\divides x+1$. By *lmm:lambda_pow_four_dvd_cube_add_one_of_dvd_add_one*,\n"
+"we have that $\\lambda^ 4 \\divides x^3 + 1$, which implies that\n"
+"$$(\\lambda^4 \\divides x^3 - 1) \\lor (\\lambda^4 \\divides x^3 + 1).$$\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions.L23_lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions
+msgid "Third Cyclotomic Extensions"
+msgstr ""
+
+#: Game.Levels.ThirdCyclotomicExtensions
+msgid "Welcome to the world *Third Cyclotomic Extensions*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L01_cube_of_not_dvd
+msgid "cube_of_not_dvd"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L01_cube_of_not_dvd
+msgid "Let $n \\in \\N$. \\\\\n"
+"Let $\\left[n \\right] \\in \\Z_9$. \\\\\n"
+"Let $3 \\notdivides n$. \\\\ \\\\\n"
+"Then $\\left[n \\right]^3 = 1 \\lor \\left[n \\right]^3 = 8$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L01_cube_of_not_dvd
+msgid "Let $n \\in \\N$. \\\\\n"
+"Let $\\left[n \\right] \\in \\Z_9$. \\\\\n"
+"Let $3 \\notdivides n$. \\\\ \\\\\n"
+"Then $\\left[n \\right]^3 = 1 \\lor \\left[n \\right]^3 = 8$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L01_cube_of_not_dvd
+msgid "By *lmm:cube_of_castHom_ne_zero*, we can conclude that $\\left[n \\right]^3 = 1 \\lor \\left[n \\right]^3 = 8$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L01_cube_of_not_dvd
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L02_fermatLastTheoremThree_case_1
+msgid "Fermat's Last Theorem for 3: Case 1"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L02_fermatLastTheoremThree_case_1
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\notdivides abc$. \\\\\\\\\n"
+"Then $a ^ 3 + b ^ 3 \\neq c ^ 3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L02_fermatLastTheoremThree_case_1
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\notdivides abc$. \\\\\\\\\n"
+"Then $a ^ 3 + b ^ 3 \\neq c ^ 3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L02_fermatLastTheoremThree_case_1
+msgid "By hypothesis we know that $3 \\notdivides abc$, which implies that $3 \\notdivides a$, $3 \\notdivides b$ and $3 \\notdivides c$. \\\\\n"
+"By repeatedly applying *lmm:cube_of_not_dvd* for each case,\n"
+"we can conclude that $$a ^ 3 + b ^ 3 \\neq c ^ 3.$$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L02_fermatLastTheoremThree_case_1
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L03_three_dvd_gcd_of_dvd_a_of_dvd_b
+msgid "three_dvd_gcd_of_dvd_a_of_dvd_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L03_three_dvd_gcd_of_dvd_a_of_dvd_b
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides a$ and $3 \\divides b$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L03_three_dvd_gcd_of_dvd_a_of_dvd_b
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides a$ and $3 \\divides b$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L03_three_dvd_gcd_of_dvd_a_of_dvd_b
+msgid "By hypothesis we have that $3 \\divides a^3 + b^3 = c^3$, which implies that $3 \\divides c$,\n"
+"from which we can conclude that $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L03_three_dvd_gcd_of_dvd_a_of_dvd_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L04_three_dvd_gcd_of_dvd_a_of_dvd_c
+msgid "three_dvd_gcd_of_dvd_a_of_dvd_c"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L04_three_dvd_gcd_of_dvd_a_of_dvd_c
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides a$ and $3 \\divides c$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L04_three_dvd_gcd_of_dvd_a_of_dvd_c
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides a$ and $3 \\divides c$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L04_three_dvd_gcd_of_dvd_a_of_dvd_c
+msgid "By hypothesis we have that $3 \\divides c^3 - a^3 = b^3$, which implies that $3 \\divides b$,\n"
+"from which we can conclude that $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L04_three_dvd_gcd_of_dvd_a_of_dvd_c
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L05_three_dvd_gcd_of_dvd_b_of_dvd_c
+msgid "three_dvd_gcd_of_dvd_b_of_dvd_c"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L05_three_dvd_gcd_of_dvd_b_of_dvd_c
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides b$ and $3 \\divides c$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L05_three_dvd_gcd_of_dvd_b_of_dvd_c
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $3 \\divides b$ and $3 \\divides c$. \\\\\n"
+"Let $a ^ 3 + b ^ 3 = c ^ 3$. \\\\\\\\\n"
+"Then $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L05_three_dvd_gcd_of_dvd_b_of_dvd_c
+msgid "By hypothesis we have that $3 \\divides c^3 - b^3 = a^3$, which implies that $3 \\divides a$,\n"
+"from which we can conclude that $3 \\divides \\gcd(a,b,c)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L05_three_dvd_gcd_of_dvd_b_of_dvd_c
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L06_fermatLastTheoremThree_of_three_dvd_only_c
+msgid "fermatLastTheoremThree_of_three_dvd_only_c"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L06_fermatLastTheoremThree_of_three_dvd_only_c
+msgid "To prove *Fermat's Last Theorem for Exponent $3$*, it suffices to prove that\n"
+"$$\\forall a, b, c \\in \\Z, \\text{ if } c \\neq 0 \\text{ and } 3 \\notdivides a \\text{ and }\n"
+"3 \\notdivides b \\text{ and } 3 \\divides c \\text{ and } \\gcd(a,b)=1,\n"
+"\\text{ then } a^3 + b^3 \\neq c^3.$$\n"
+"Equivalently, $$\\forall a, b, c \\in \\Z, \\text{ if } c \\neq 0 \\text{ and } 3 \\notdivides a \\text{ and }\n"
+"3 \\notdivides b \\text{ and } 3 \\divides c \\text{ and } \\gcd(a,b)=1,\n"
+"\\text{ then } a^3 + b^3 \\neq c^3$$ implies *Fermat's Last Theorem for Exponent $3$*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L06_fermatLastTheoremThree_of_three_dvd_only_c
+msgid "To prove *Fermat's Last Theorem for Exponent $3$*, it suffices to prove that\n"
+"$$\\forall a, b, c \\in \\Z, \\text{ if } c \\neq 0 \\text{ and } 3 \\notdivides a \\text{ and }\n"
+"3 \\notdivides b \\text{ and } 3 \\divides c \\text{ and } \\gcd(a,b)=1,\n"
+"\\text{ then } a^3 + b^3 \\neq c^3.$$\n"
+"Equivalently, $$\\forall a, b, c \\in \\Z, \\text{ if } c \\neq 0 \\text{ and } 3 \\notdivides a \\text{ and }\n"
+"3 \\notdivides b \\text{ and } 3 \\divides c \\text{ and } \\gcd(a,b)=1,\n"
+"\\text{ then } a^3 + b^3 \\neq c^3$$ implies *Fermat's Last Theorem for Exponent $3$*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L06_fermatLastTheoremThree_of_three_dvd_only_c
+msgid "By contradiction we assume that\n"
+"$$\\exists a,b,c \\in \\N \\smallsetminus \\set{0} \\text{ such that } a^3 + b^3 = c^3.$$\n"
+"By *lmm:fermatLastTheoremWith_of_fermatLastTheoremWith_coprime*\n"
+"we can assume that $\\gcd(a,b,c)=1$. \\\\\n"
+"By *Fermat's Last Theorem for 3: Case 1* we can assume that $3 \\divides a b c$,\n"
+"from which it follows that $$(3 \\divides a) \\lor (3 \\divides b) \\lor (3 \\divides c).$$\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $3 \\divides a$. \\\\\n"
+"Let $a'=-c$, $b'=b$, $c'=-a$, then $3 \\divides c'$ and\n"
+"$$(a'\\neq 0) \\land (b'\\neq 0) \\land (c' \\neq 0).$$\n"
+"Then $3 \\notdivides a'$ since otherwise by *lmm:three_dvd_gcd_of_dvd_a_of_dvd_c*\n"
+"we would have that $3 \\divides \\gcd(a,b,c)=1$ which is absurd. \\\\\n"
+"Analogously, by *lmm:three_dvd_gcd_of_dvd_a_of_dvd_b* we have that $3 \\notdivides b'$.\\\\\n"
+"By contradiction we assume that $\\gcd(a',b') \\neq 1$ which, by basic divisibility properties,\n"
+"implies that there is a prime $p$ such that $p \\divides a'$ and $p \\divides b'$.\n"
+"It follows that $p \\divides b'^3 + a'^3 = b^3 - c^3 = -a^3$, which implies that $p \\divides a$.\\\\\n"
+"Therefore $p \\divides \\gcd(a,b,c)=1$ which is absurd. \\\\\n"
+"Moreover, we have that $a'^3 + b'^3 = -c^3 + b^3 = -a^3 = c'^3$ that contradicts our hypothesis.\n"
+"\\item Case $3 \\divides b$. \\\\\n"
+"Let $a'=a$, $b'=-c$, $c'=-b$.\\\\\n"
+"The rest of the proof is analogous to the first case using *lmm:three_dvd_gcd_of_dvd_a_of_dvd_b* and\n"
+"*lmm:three_dvd_gcd_of_dvd_b_of_dvd_c*.\n"
+"\\item Case $3 \\divides c$.\n"
+"Let $a'=a$, $b'=b$, $c'=c$.\\\\\n"
+"The rest of the proof is analogous to the first case using *lmm:three_dvd_gcd_of_dvd_a_of_dvd_c* and\n"
+"*lmm:three_dvd_gcd_of_dvd_b_of_dvd_c*.\n"
+"\\end{itemize}\n"
+"Therefore, we can conclude that $a^3 + b^3 \\neq c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L06_fermatLastTheoremThree_of_three_dvd_only_c
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L07_Solution'_multiplicity_lambda_c_finite
+msgid "Solution'.multiplicity_lambda_c_finite"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L07_Solution'_multiplicity_lambda_c_finite
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then the multiplicity of $S'$ is finite."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L07_Solution'_multiplicity_lambda_c_finite
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then the multiplicity of $S'$ is finite."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L07_Solution'_multiplicity_lambda_c_finite
+msgid "It directly follows from *lmm:lambda_not_unit*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L07_Solution'_multiplicity_lambda_c_finite
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter033
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"The *multiplicity* of $S'$ is the largest $n \\in \\N$ such that\n"
+"$\\lambda^n \\divides c$."
+msgstr ""
+
+#: Game.Generated.DefsAfter033
+msgid "Let $S=(a, b, c, u)$ be a $solution$. \\\\\\\\\n"
+"The *multiplicity* of $S$ is the largest $n \\in \\N$ such that\n"
+"$\\lambda^n \\divides c$."
+msgstr ""
+
+#: Game.Generated.DefsAfter033
+msgid "Let $S=(a, b, c, u)$ be a $solution$. \\\\\\\\\n"
+"We say that $S$ is *minimal* if for all solutions $S_1=(a_1,b_1,c_1,u_1)$,\n"
+"the multiplicity of $S$ is less than or equal to the $multiplicity$ of $S_1$."
+msgstr ""
+
+#: Game.Generated.DefsAfter033
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"We define $y \\in \\cc{O}_K$ such that $a + \\eta  b = \\lambda  y$.\\\\\n"
+"We define $z \\in \\cc{O}_K$ such that $a + \\eta^2  b = \\lambda  z$.\\\\\n"
+"We define $w \\in \\cc{O}_K$ such that $c = \\lambda^n  w$."
+msgstr ""
+
+#: Game.Generated.DefsAfter033
+msgid "Definition `Solution.w_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L08_Solution_exists_minimal
+msgid "Solution.exists_minimal"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L08_Solution_exists_minimal
+msgid "Let $S$ be a $solution$ with multiplicity $n$. \\\\\\\\\n"
+"Then there is a minimal solution $S_1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L08_Solution_exists_minimal
+msgid "Let $S$ be a $solution$ with multiplicity $n$. \\\\\\\\\n"
+"Then there is a minimal solution $S_1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L08_Solution_exists_minimal
+msgid "Straightforward since $n \\in \\N$ and $\\N$ is well-ordered."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L08_Solution_exists_minimal
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L09_a_cube_b_cube_same_congr
+msgid "a_cube_b_cube_same_congr"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L09_a_cube_b_cube_same_congr
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^4 \\divides a^3 - 1 \\land \\lambda^4 \\divides b^3 + 1$ or\n"
+"$\\lambda^4 \\divides a^3 + 1 \\land \\lambda^4 \\divides b^3 - 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L09_a_cube_b_cube_same_congr
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^4 \\divides a^3 - 1 \\land \\lambda^4 \\divides b^3 + 1$ or\n"
+"$\\lambda^4 \\divides a^3 + 1 \\land \\lambda^4 \\divides b^3 - 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L09_a_cube_b_cube_same_congr
+msgid "Since $\\lambda \\notdivides a$, then\n"
+"$\\lambda^4 \\divides a^3 - 1 \\lor \\lambda^4 \\divides a^3 + 1$ by\n"
+"*lmm:lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd*.\n"
+"Since $\\lambda \\notdivides b$, then\n"
+"$\\lambda^4 \\divides b^3 - 1 \\lor \\lambda^4 \\divides b^3 + 1$ by\n"
+"*lmm:lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd*.\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $\\lambda^4 \\divides a^3 - 1 \\land \\lambda^4 \\divides b^3 - 1$.\n"
+"Since $\\lambda \\divides c$ we have that $\\lambda \\divides c^3-(a^3-1)-(b^3-1) = 2$,\n"
+"which is absurd by *lmm:lambda_not_dvd_two*.\n"
+"\\item Case $\\lambda^4 \\divides a^3 + 1 \\land \\lambda^4 \\divides b^3 + 1$.\n"
+"Since $\\lambda \\divides c$ we have that $\\lambda \\divides (a^3-1)+(b^3-1)-c^3 = 2$,\n"
+"which is absurd by *lmm:lambda_not_dvd_two*.\n"
+"\\item Case $\\lambda^4 \\divides a^3 - 1 \\land \\lambda^4 \\divides b^3 + 1$. Trivial.\n"
+"\\item Case $\\lambda^4 \\divides a^3 + 1 \\land \\lambda^4 \\divides b^3 - 1$. Trivial.\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L09_a_cube_b_cube_same_congr
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L10_lambda_pow_four_dvd_c_cube
+msgid "lambda_pow_four_dvd_c_cube"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L10_lambda_pow_four_dvd_c_cube
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^4 \\divides c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L10_lambda_pow_four_dvd_c_cube
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^4 \\divides c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L10_lambda_pow_four_dvd_c_cube
+msgid "Apply *lmm:a_cube_b_cube_same_congr* and then compute each case."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L10_lambda_pow_four_dvd_c_cube
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L11_lambda_pow_two_dvd_c
+msgid "lambda_pow_two_dvd_c"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L11_lambda_pow_two_dvd_c
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^2 \\divides c$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L11_lambda_pow_two_dvd_c
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$. \\\\\\\\\n"
+"Then $\\lambda^2 \\divides c$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L11_lambda_pow_two_dvd_c
+msgid "Apply *lmm:lambda_pow_four_dvd_c_cube*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L11_lambda_pow_two_dvd_c
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L12_Solution'_two_le_multiplicity
+msgid "Solution'.two_le_multiplicity"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L12_Solution'_two_le_multiplicity
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$ with multiplicity $n$.\\\\\\\\\n"
+"Then $2 \\leq n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L12_Solution'_two_le_multiplicity
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$ with multiplicity $n$.\\\\\\\\\n"
+"Then $2 \\leq n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L12_Solution'_two_le_multiplicity
+msgid "It directly follows from *lmm:lambda_pow_two_dvd_c*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L12_Solution'_two_le_multiplicity
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L13_Solution_two_le_multiplicity
+msgid "Solution.two_le_multiplicity"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L13_Solution_two_le_multiplicity
+msgid "Let $S=(a, b, c, u)$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $2 \\leq n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L13_Solution_two_le_multiplicity
+msgid "Let $S=(a, b, c, u)$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $2 \\leq n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L13_Solution_two_le_multiplicity
+msgid "It directly follows from *lmm:Solution1_two_le_multiplicity*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L13_Solution_two_le_multiplicity
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L14_cube_add_cube_eq_mul
+msgid "cube_add_cube_eq_mul"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L14_cube_add_cube_eq_mul
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $a^3 + b^3 = (a + b) (a + \\eta b) (a + \\eta^2 b)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L14_cube_add_cube_eq_mul
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $a^3 + b^3 = (a + b) (a + \\eta b) (a + \\eta^2 b)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L14_cube_add_cube_eq_mul
+msgid "Straightforward calculation using *lmm:toInteger_cube_eq_one*\n"
+"and *lmm:toInteger_eval_cyclo*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L14_cube_add_cube_eq_mul
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L15_lambda_sq_dvd_or_dvd_or_dvd
+msgid "lambda_sq_dvd_or_dvd_or_dvd"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L15_lambda_sq_dvd_or_dvd_or_dvd
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $(\\lambda^2 \\divides a + b) \\lor (\\lambda^2 \\divides a +\n"
+"\\eta b) \\lor (\\lambda^2 \\divides a + \\eta^2 b)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L15_lambda_sq_dvd_or_dvd_or_dvd
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $(\\lambda^2 \\divides a + b) \\lor (\\lambda^2 \\divides a +\n"
+"\\eta b) \\lor (\\lambda^2 \\divides a + \\eta^2 b)$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L15_lambda_sq_dvd_or_dvd_or_dvd
+msgid "By contradiction we assume that\n"
+"$$(\\lambda^2 \\notdivides a + b) \\land (\\lambda^2 \\notdivides a +\n"
+"\\eta b) \\land (\\lambda^2 \\notdivides a + \\eta^2 b).$$\n"
+"Then, by definition, the multiplicity of $\\lambda$ in $a + b$, in $a +\n"
+"\\eta b$ and in $a + \\eta^2 b$ is less than $2$.\n"
+"By properties of divisibility, *lmm:lambda_pow_two_dvd_c* and *lmm:cube_add_cube_eq_mul*,\n"
+"we have that\n"
+"$$\\lambda^6 \\divides u c^3 = a^3 + b^3 = (a + b) (a + \\eta b) (a + \\eta^2 b).$$\n"
+"Then, the multiplicity of $\\lambda$ in $(a + b) (a + \\eta b) (a + \\eta^2 b)$ is greater than\n"
+"or equal to $6$. \\\\\n"
+"By *lmm:lambda_prime* $\\lambda$ is prime, so we have that the multiplicity of $\\lambda$\n"
+"in $(a + b) (a + \\eta b) (a + \\eta^2 b)$ is the sum of the multiplicities of $\\lambda$ in\n"
+"$a + b$, in $a + \\eta b$ and in $a + \\eta^2 b$, which is less than $6$.\n"
+"This is a contradiction that forces us to conclude that\n"
+"$$(\\lambda^2 \\divides a + b) \\lor (\\lambda^2 \\divides a +\n"
+"\\eta b) \\lor (\\lambda^2 \\divides a + \\eta^2 b).$$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L15_lambda_sq_dvd_or_dvd_or_dvd
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L16_ex_dvd_a_add_b
+msgid "ex_dvd_a_add_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L16_ex_dvd_a_add_b
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $\\exists a_1,b_1 \\in \\cc{O}_k$ such that $S_1=(a_1,b_1,c,u)$ is a $solution$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L16_ex_dvd_a_add_b
+msgid "Let $S'=(a, b, c, u)$ be a $solution'$.\\\\\\\\\n"
+"Then $\\exists a_1,b_1 \\in \\cc{O}_k$ such that $S_1=(a_1,b_1,c,u)$ is a $solution$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L16_ex_dvd_a_add_b
+msgid "By *lmm:lambda_sq_dvd_or_dvd_or_dvd*, we have that\n"
+"$$(\\lambda^2 \\divides a + b) \\lor (\\lambda^2 \\divides a +\n"
+"\\eta b) \\lor (\\lambda^2 \\divides a + \\eta^2 b).$$\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $\\lambda^2 \\divides a + b$. Trivial using $a_1=a$ and $b_1=b$.\n"
+"\\item Case $\\lambda^2 \\divides a + \\eta b$. Let $a_1=a$ and $b_1=\\eta b$. \\\\\n"
+"By *lmm:toInteger_cube_eq_one*, we have that $a^3 + (\\eta b)^3 = a^3 + b^3 = u c^3$.\\\\\n"
+"By properties of coprimes and *lmm:eta_isUnit*, we have that\n"
+"$\\gcd(a,b)=1$ implies that $\\gcd(a,\\eta b)=1$.\\\\\n"
+"Since $a_1=a$, we already know that $\\lambda \\notdivides a = a_1$.\\\\\n"
+"By contradiction we assume that $\\lambda \\divides b_1 = \\eta b$, which,\n"
+"by *lmm:toInteger_cube_eq_one*, it implies that $\\lambda \\divides \\eta^2 \\eta b = b$\n"
+"that contradicts our assumption, forcing us to conclude that $\\lambda \\notdivides b_1$.\n"
+"\\item Case $\\lambda^2 \\divides a + \\eta^2 b$. Let $a_1=a$ and $b_1=\\eta^2 b$. \\\\\n"
+"By *lmm:toInteger_cube_eq_one*, we have that $a^3 + (\\eta^2 b)^3 = a^3 + b^3 = u c^3$.\\\\\n"
+"By properties of coprimes and *lmm:eta_isUnit*, we have that\n"
+"$\\gcd(a,b)=1$ implies that $\\gcd(a,\\eta^2 b)=1$.\\\\\n"
+"Since $a_1=a$, we already know that $\\lambda \\notdivides a = a_1$.\\\\\n"
+"By contradiction we assume that $\\lambda \\divides b_1 = \\eta^2 b$, which,\n"
+"by *lmm:toInteger_cube_eq_one*, it implies that $\\lambda \\divides \\eta \\eta^2 b = b$\n"
+"that contradicts our assumption, forcing us to conclude that $\\lambda \\notdivides b_1$.\n"
+"\\end{itemize}\n"
+"Therefore, we can conclude that\n"
+"$\\exists a_1,b_1 \\in \\cc{O}_k$ such that $S_1=(a_1,b_1,c,u)$ is a $solution$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L16_ex_dvd_a_add_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L17_exists_Solution_of_Solution'
+msgid "exists_Solution_of_Solution'"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L17_exists_Solution_of_Solution'
+msgid "Let $S'$ be a $solution'$ with multiplicity $n$.\\\\\\\\\n"
+"Then there is a $solution\\text{ }S$ with multiplicity $n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L17_exists_Solution_of_Solution'
+msgid "Let $S'$ be a $solution'$ with multiplicity $n$.\\\\\\\\\n"
+"Then there is a $solution\\text{ }S$ with multiplicity $n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L17_exists_Solution_of_Solution'
+msgid "Let $S'=(a',b',c',u')$. Let $a, b$ be the units given by *lmm:ex_dvd_a_add_b*.\n"
+"Then $S=(a,b,c',u')$ is a $solution'$ with multiplicity $n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L17_exists_Solution_of_Solution'
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L18_a_add_eta_b
+msgid "a_add_eta_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L18_a_add_eta_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $a + \\eta  b = (a + b) + \\lambda  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L18_a_add_eta_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $a + \\eta  b = (a + b) + \\lambda  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L18_a_add_eta_b
+msgid "Trivial calculation."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L18_a_add_eta_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L19_lambda_dvd_a_add_eta_mul_b
+msgid "lambda_dvd_a_add_eta_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L19_lambda_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\divides a + \\eta  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L19_lambda_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\divides a + \\eta  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L19_lambda_dvd_a_add_eta_mul_b
+msgid "Trivial since $\\lambda \\divides a+b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L19_lambda_dvd_a_add_eta_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter045
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"We define $y \\in \\cc{O}_K$ such that $a + \\eta  b = \\lambda  y$.\\\\\n"
+"We define $z \\in \\cc{O}_K$ such that $a + \\eta^2  b = \\lambda  z$.\\\\\n"
+"We define $w \\in \\cc{O}_K$ such that $c = \\lambda^n  w$."
+msgstr ""
+
+#: Game.Generated.DefsAfter045
+msgid "Definition `Solution.y_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L20_lambda_dvd_a_add_eta_sq_mul_b
+msgid "lambda_dvd_a_add_eta_sq_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L20_lambda_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\divides a + \\eta^2  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L20_lambda_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\divides a + \\eta^2  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L20_lambda_dvd_a_add_eta_sq_mul_b
+msgid "Since $\\lambda \\divides a+b$, then\n"
+"$\\lambda \\divides (a + b) + \\lambda^2  b + 2  \\lambda  b\n"
+"= a + \\eta^2  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L20_lambda_dvd_a_add_eta_sq_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter046
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"We define $y \\in \\cc{O}_K$ such that $a + \\eta  b = \\lambda  y$.\\\\\n"
+"We define $z \\in \\cc{O}_K$ such that $a + \\eta^2  b = \\lambda  z$.\\\\\n"
+"We define $w \\in \\cc{O}_K$ such that $c = \\lambda^n  w$."
+msgstr ""
+
+#: Game.Generated.DefsAfter046
+msgid "Definition `Solution.z_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L21_lambda_sq_not_dvd_a_add_eta_mul_b
+msgid "lambda_sq_not_dvd_a_add_eta_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L21_lambda_sq_not_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\notdivides a + \\eta b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L21_lambda_sq_not_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\notdivides a + \\eta b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L21_lambda_sq_not_dvd_a_add_eta_mul_b
+msgid "By contradiction we assume that $\\lambda^2 \\divides a + \\eta b$, which implies that\n"
+"$\\lambda^2 \\divides a + b + \\lambda  b$ by *lmm:a_add_eta_b*.\n"
+"Since $\\lambda^2 \\divides a+b$, then $\\lambda^2 \\divides \\lambda  b$, which implies that\n"
+"$\\lambda \\divides b$, that contradicts *Solution* forcing us to conclude that\n"
+"$\\lambda^2 \\notdivides a + \\eta b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L21_lambda_sq_not_dvd_a_add_eta_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L22_lambda_sq_not_dvd_a_add_eta_sq_mul_b
+msgid "lambda_sq_not_dvd_a_add_eta_sq_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L22_lambda_sq_not_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\notdivides a + \\eta^2  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L22_lambda_sq_not_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\notdivides a + \\eta^2  b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L22_lambda_sq_not_dvd_a_add_eta_sq_mul_b
+msgid "By contradiction using *lmm:toInteger_eval_cyclo*, we assume\n"
+"$\\lambda^2 \\divides a +\\eta^2 b = a + b -b + \\eta^2  b$.\n"
+"Since $\\lambda^2 \\divides a+b$, then $\\lambda^2 \\divides b (\\eta^2 -1)\n"
+"= \\lambda b (\\eta + 1)$. Since $\\lambda \\notdivides b$, then\n"
+"$\\lambda \\divides \\eta+1 = \\lambda +2$, then $\\lambda \\divides 2$ which is absurd."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L22_lambda_sq_not_dvd_a_add_eta_sq_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L23_eta_add_one_inv
+msgid "eta_add_one_inv"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L23_eta_add_one_inv
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $(\\eta + 1)  (-\\eta) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L23_eta_add_one_inv
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"Then $(\\eta + 1)  (-\\eta) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L23_eta_add_one_inv
+msgid "Trivial calculation using *lmm:toInteger_eval_cyclo*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L23_eta_add_one_inv
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L24_associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b
+msgid "associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L24_associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+b$\n"
+"and $p \\divides a+\\eta  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L24_associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+b$\n"
+"and $p \\divides a+\\eta  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L24_associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b
+msgid "We proceed by analysis each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $p \\divides \\lambda$. It directly follows from *lmm:lambda_prime*.\n"
+"\\item Case $p \\notdivides \\lambda$. \\\\\n"
+"By hypothesis, we have that $p \\divides a+b$ and $p \\divides a+\\eta b$.\n"
+"Then $p \\divides (a+\\eta b) - (a+b) = b (\\eta-1) = b \\lambda$, which implies that\n"
+"$p \\divides b$ and we proceed analogously to show that $p \\divides a$.\\\\\n"
+"Therefore $p \\divides \\gcd(a,b)=1$ which is absurd.\n"
+"\\end{itemize}\n"
+"Therefore, we can conclude that $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L24_associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L25_associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b
+msgid "associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L25_associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+b$\n"
+"and $p \\divides a+\\eta^2  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L25_associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+b$\n"
+"and $p \\divides a+\\eta^2  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L25_associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b
+msgid "We proceed by analysis each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $p \\divides \\lambda$. It directly follows from *lmm:lambda_prime*.\n"
+"\\item Case $p \\notdivides \\lambda$. \\\\\n"
+"By hypothesis, we have that $p \\divides a+ b$ and $p \\divides a+\\eta^2 b$.\n"
+"By *lmm:toInteger_cube_eq_one* and *lmm:eta_isUnit*, we have that\n"
+"$$p \\divides \\eta ((a+\\eta^2 b) - (a+ b)) = - (\\eta^3 - \\eta) b = \\lambda b,$$\n"
+"which implies that $p \\divides b$\n"
+"and we proceed analogously to show that $p \\divides a$.\\\\\n"
+"Therefore $p \\divides \\gcd(a,b)=1$ which is absurd.\n"
+"\\end{itemize}\n"
+"Therefore, we can conclude that $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L25_associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L26_associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b
+msgid "associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L26_associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+\\eta b$\n"
+"and $p \\divides a+\\eta^2  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L26_associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\n"
+"Let $p \\in \\cc{O}_K$ be a prime such that $p \\divides a+\\eta b$\n"
+"and $p \\divides a+\\eta^2  b$.\\\\\\\\\n"
+"Then $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L26_associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b
+msgid "We proceed by analysis each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $p \\divides \\lambda$. It directly follows from *lmm:lambda_prime*.\n"
+"\\item Case $p \\notdivides \\lambda$. \\\\\n"
+"By hypothesis, we have that $p \\divides a+\\eta b$ and $p \\divides a+\\eta^2 b$.\n"
+"Then $p \\divides (a+\\eta^2 b) - (a+\\eta b) = \\eta b (\\eta-1) = \\eta b \\lambda$,\n"
+"which, by *lmm:eta_isUnit*, implies that $p \\divides b$\n"
+"and we proceed analogously to show that $p \\divides a$.\\\\\n"
+"Therefore $p \\divides \\gcd(a,b)=1$ which is absurd.\n"
+"\\end{itemize}\n"
+"Therefore, we can conclude that $p$ is associated with $\\lambda$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L26_associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L27_lambda_not_dvd_y
+msgid "lambda_not_dvd_y"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L27_lambda_not_dvd_y
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L27_lambda_not_dvd_y
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L27_lambda_not_dvd_y
+msgid "By contradiction we assume that $\\lambda \\divides y$, which implies that\n"
+"$\\lambda^2 \\divides \\lambda y = a + \\eta b$, that contradicts\n"
+"*lmm:lambda_sq_not_dvd_a_add_eta_mul_b* forcing us to conclude that\n"
+"$\\lambda \\notdivides y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L27_lambda_not_dvd_y
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L28_lambda_not_dvd_z
+msgid "lambda_not_dvd_z"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L28_lambda_not_dvd_z
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L28_lambda_not_dvd_z
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L28_lambda_not_dvd_z
+msgid "By contradiction we assume that $\\lambda \\divides z$, which implies that\n"
+"$\\lambda^2 \\divides \\lambda z = a + \\eta^2 b$, that contradicts\n"
+"*lmm:lambda_sq_not_dvd_a_add_eta_sq_mul_b* forcing us to conclude $\\lambda \\notdivides z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L28_lambda_not_dvd_z
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L29_lambda_pow_dvd_a_add_b
+msgid "lambda_pow_dvd_a_add_b"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L29_lambda_pow_dvd_a_add_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\lambda^{3n -2} \\divides a + b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L29_lambda_pow_dvd_a_add_b
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\lambda^{3n -2} \\divides a + b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L29_lambda_pow_dvd_a_add_b
+msgid "By *Multiplicity of Solution* we have that $\\lambda^n \\divides c$.\n"
+"Since $u$ is a unit, then by *lmm:cube_add_cube_eq_mul* we have that\n"
+"$$\\lambda^{3n} \\divides u  c^3 = a^3 + b^3 = (a+b)(a + \\eta b)(a + \\eta^2 b)\n"
+"= (a+b)(\\lambda y)(\\lambda z).$$\n"
+"Then applying *lmm:lambda_not_dvd_y* and *lmm:lambda_not_dvd_z*, we can conclude\n"
+"that $\\lambda^{3n-2} \\divides a+b$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L29_lambda_pow_dvd_a_add_b
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter055
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S=(a, b, c, u)$ be a $solution$.\\\\\\\\\n"
+"We define $x \\in \\cc{O}_K$ such that $a + b = \\lambda^{3n-2}  x$."
+msgstr ""
+
+#: Game.Generated.DefsAfter055
+msgid "Definition `Solution.x_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L30_lambda_not_dvd_w
+msgid "lambda_not_dvd_w"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L30_lambda_not_dvd_w
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides w$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L30_lambda_not_dvd_w
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides w$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L30_lambda_not_dvd_w
+msgid "By contradiction we assume that $\\lambda \\divides w$, which implies\n"
+"$\\lambda^{n+1} \\divides \\lambda^n  w = c$ that contradicts *Multiplicity of Solution*\n"
+"forcing us to conclude that $\\lambda \\notdivides w$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L30_lambda_not_dvd_w
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L31_lambda_not_dvd_x
+msgid "lambda_not_dvd_x"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L31_lambda_not_dvd_x
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides x$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L31_lambda_not_dvd_x
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides x$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L31_lambda_not_dvd_x
+msgid "By contradiction, if $\\lambda \\divides x$, then\n"
+"$\\lambda^{3n-1} \\divides \\lambda^{3n-2}  x = a+b$. Using *lmm:lambda_dvd_a_add_eta_mul_b*\n"
+"and *lmm:lambda_dvd_a_add_eta_sq_mul_b*, we have that $\\lambda^{3n+1} \\divides\n"
+"(a+b)  (a + \\eta  b)  (a + \\eta^2 cdot b) = a^3+b^3\n"
+"= u c^3 = u \\lambda^{3n} w^3$.\n"
+"Then $\\lambda \\divides w^3$ which implies that $\\lambda \\divides w$, that\n"
+"contradicts *lmm:lambda_not_dvd_w* forcing us to conclude $\\lambda \\notdivides x$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L31_lambda_not_dvd_x
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L32_coprime_x_y
+msgid "coprime_x_y"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L32_coprime_x_y
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\gcd(x,y) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L32_coprime_x_y
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\gcd(x,y) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L32_coprime_x_y
+msgid "Since $y \\neq 0$ by *lmm:lambda_not_dvd_y*, by the properties of PIDs it suffices to prove that\n"
+"$\\forall p \\in \\cc{O}_K$ if $p$ is prime and $p \\divides x$, then $p \\notdivides y$.\n"
+"Let $p \\in \\cc{O}_K$ be prime and suppose by contradiction that $p \\divides x$ and $p \\divides y$\n"
+"which implies that $p \\divides \\lambda^{3n-2} x = a+b$ and $p \\divides \\lambda y = a + \\eta b$.\n"
+"Then by *lmm:associated_of_dvd_a_add_b_of_dvd_a_add_eta_mul_b*\n"
+"we have that $p$ is associated with $\\lambda$, which implies that $\\lambda \\divides x$\n"
+"that contradicts *lmm:lambda_not_dvd_x* forcing us to conclude that $p \\notdivides y$, which,\n"
+"as stated above, implies that $\\gcd(x,y)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L32_coprime_x_y
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L33_coprime_x_z
+msgid "coprime_x_z"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L33_coprime_x_z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(x,z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L33_coprime_x_z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(x,z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L33_coprime_x_z
+msgid "Since $z \\neq 0$ by *lmm:lambda_not_dvd_z*, by the properties of PIDs it suffices to prove that\n"
+"$\\forall p \\in \\cc{O}_K$ if $p$ is prime and $p \\divides x$, then $p \\notdivides z$.\n"
+"Let $p \\in \\cc{O}_K$ be prime and suppose by contradiction that $p \\divides x$ and $p \\divides z$\n"
+"which implies that $p \\divides \\lambda^{3n-2} x = a+b$ and $p \\divides \\lambda z = a + \\eta^2 b$.\n"
+"Then by *lmm:associated_of_dvd_a_add_b_of_dvd_a_add_eta_sq_mul_b*\n"
+"we have that $p$ is associated with $\\lambda$, which implies that $\\lambda \\divides x$\n"
+"that contradicts *lmm:lambda_not_dvd_x* forcing us to conclude that $p \\notdivides z$, which,\n"
+"as stated above, implies that $\\gcd(x,z)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L33_coprime_x_z
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L34_coprime_y_z
+msgid "coprime_y_z"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L34_coprime_y_z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(y, z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L34_coprime_y_z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(y, z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L34_coprime_y_z
+msgid "Since $z \\neq 0$ by *lmm:lambda_not_dvd_z*, by the properties of PIDs it suffices to prove that\n"
+"$\\forall p \\in \\cc{O}_K$ if $p$ is prime and $p \\divides y$, then $p \\notdivides z$.\n"
+"Let $p \\in \\cc{O}_K$ be prime and suppose by contradiction that $p \\divides y$ and $p \\divides z$\n"
+"which implies that $p \\divides \\lambda y = a+\\eta b$ and $p \\divides \\lambda z = a + \\eta^2 b$.\n"
+"Then by *lmm:associated_of_dvd_a_add_eta_mul_b_of_dvd_a_add_eta_sq_mul_b*\n"
+"we have that $p$ is associated with $\\lambda$, which implies that $\\lambda \\divides y$\n"
+"that contradicts *lmm:lambda_not_dvd_y* forcing us to conclude that $p \\notdivides z$, which,\n"
+"as stated above, implies that $\\gcd(y,z)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L34_coprime_y_z
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L35_mult_minus_two_plus_one_plus_one
+msgid "mult_minus_two_plus_one_plus_one"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L35_mult_minus_two_plus_one_plus_one
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $3n - 2 + 1 + 1 = 3n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L35_mult_minus_two_plus_one_plus_one
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $3n - 2 + 1 + 1 = 3n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L35_mult_minus_two_plus_one_plus_one
+msgid "It directly follows from *lmm:Solution_two_le_multiplicity*\n"
+"and calculations using ring properties."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L35_mult_minus_two_plus_one_plus_one
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L36_x_mul_y_mul_z_eq_u_w_pow_three
+msgid "x_mul_y_mul_z_eq_u_w_pow_three"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L36_x_mul_y_mul_z_eq_u_w_pow_three
+msgid "Let $S=(a,b,c,u)$ be a $solution$.\\\\\\\\\n"
+"Then $x y z = u w^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L36_x_mul_y_mul_z_eq_u_w_pow_three
+msgid "Let $S=(a,b,c,u)$ be a $solution$.\\\\\\\\\n"
+"Then $x y z = u w^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L36_x_mul_y_mul_z_eq_u_w_pow_three
+msgid "It directly follows from *$y,z,w$*, *$x$*,\n"
+"*lmm:cube_add_cube_eq_mul*,\n"
+"*lmm:lambda_ne_zero*, *lmm:Solution_two_le_multiplicity* and\n"
+"calculations using ring properties."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L36_x_mul_y_mul_z_eq_u_w_pow_three
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L37_x_eq_unit_mul_cube
+msgid "x_eq_unit_mul_cube"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L37_x_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_1 \\in \\cc{O}^\\times_K$ and $\\exists X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L37_x_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_1 \\in \\cc{O}^\\times_K$ and $\\exists X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L37_x_eq_unit_mul_cube
+msgid "By the properties of PIDs, it suffices to prove that there exists a $k\\in \\cc{O}_K$ such that\n"
+"$xk$ is a cube and $\\gcd(x,k)=1$.\n"
+"Let $k = yzu^{-1}$, then $xk = x y z u^{-1} = w^3$ by *lmm:x_mul_y_mul_z_eq_u_w_pow_three*.\n"
+"Moreover, since $\\gcd(x,y)=1$ by *lmm:coprime_x_y* and $\\gcd(x,z)=1$ by *lmm:coprime_x_z*,\n"
+"then $\\gcd(x,yz)=1$, which implies that $\\gcd(x,k)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L37_x_eq_unit_mul_cube
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter063
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter063
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter063
+msgid "Definition `Solution.u₁_X_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L38_y_eq_unit_mul_cube
+msgid "y_eq_unit_mul_cube"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L38_y_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_2 \\in \\cc{O}^\\times_K$ and $\\exists Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L38_y_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_2 \\in \\cc{O}^\\times_K$ and $\\exists Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L38_y_eq_unit_mul_cube
+msgid "By the properties of PIDs, it suffices to prove that there exists a $k\\in \\cc{O}_K$ such that\n"
+"$yk$ is a cube and $\\gcd(y,k)=1$.\n"
+"Let $k = xzu^{-1}$, then $yk = y x z u^{-1} = w^3$ by *lmm:x_mul_y_mul_z_eq_u_w_pow_three*.\n"
+"Moreover, since $\\gcd(x,y)=1$ by *lmm:coprime_x_y* and $\\gcd(y,z)=1$ by *lmm:coprime_y_z*,\n"
+"then $\\gcd(y,xz)=1$, which implies that $\\gcd(y,k)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L38_y_eq_unit_mul_cube
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter064
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter064
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter064
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_4' = \\eta u_3 u_2^{-1}$.\\\\\n"
+"We define $u_5' = -\\eta^2 u_1 u_2^{-1}$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter064
+msgid "Definition `Solution.u₂_Y_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L39_z_eq_unit_mul_cube
+msgid "z_eq_unit_mul_cube"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L39_z_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_3 \\in \\cc{O}^\\times_K$ and $\\exists Z \\in \\cc{O}_K$\n"
+"such that $z = u_3  Z^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L39_z_eq_unit_mul_cube
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\exists u_3 \\in \\cc{O}^\\times_K$ and $\\exists Z \\in \\cc{O}_K$\n"
+"such that $z = u_3  Z^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L39_z_eq_unit_mul_cube
+msgid "By the properties of PIDs, it suffices to prove that there exists a $k\\in \\cc{O}_K$ such that\n"
+"$zk$ is a cube and $\\gcd(z,k)=1$.\n"
+"Let $k = xyu^{-1}$, then $zk = z x y u^{-1} = w^3$ by *lmm:x_mul_y_mul_z_eq_u_w_pow_three*.\n"
+"Moreover, since $\\gcd(x,z)=1$ by *lmm:coprime_x_z* and $\\gcd(y,z)=1$ by *lmm:coprime_y_z*,\n"
+"then $\\gcd(z,xy)=1$, which implies that $\\gcd(z,k)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L39_z_eq_unit_mul_cube
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter065
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter065
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_1 \\in \\cc{O}^\\times_K$ and $X \\in \\cc{O}_K$\n"
+"such that $x = u_1 X^3$.\\\\\n"
+"We define $u_2 \\in \\cc{O}^\\times_K$ and $Y \\in \\cc{O}_K$\n"
+"such that $y = u_2 Y^3$.\\\\\n"
+"We define $u_3 \\in \\cc{O}^\\times_K$ and $Z \\in \\cc{O}_K$\n"
+"such that $z = u_3 Z^3$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter065
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_4' = \\eta u_3 u_2^{-1}$.\\\\\n"
+"We define $u_5' = -\\eta^2 u_1 u_2^{-1}$.\\\\"
+msgstr ""
+
+#: Game.Generated.DefsAfter065
+msgid "Definition `Solution.u₃_Z_spec`."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L40_X_ne_zero
+msgid "X_ne_zero"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L40_X_ne_zero
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $X \\neq 0$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L40_X_ne_zero
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $X \\neq 0$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L40_X_ne_zero
+msgid "By contradiction we assume that $X = 0$, then $x = 0$ by *$u_1,u_2,u_3,X,Y,Z$*.\n"
+"Therefore $\\lambda$ trivially divides $x$ (as any number divides zero) which contradicts\n"
+"*lmm:lambda_not_dvd_x* forcing us to conclude that $X \\neq 0$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L40_X_ne_zero
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L41_lambda_not_dvd_X
+msgid "lambda_not_dvd_X"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L41_lambda_not_dvd_X
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides X$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L41_lambda_not_dvd_X
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides X$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L41_lambda_not_dvd_X
+msgid "By contradiction we assume that $\\lambda \\divides X$, then, by the properties of divisibility,\n"
+"$\\lambda \\divides u_1 X^3$, which implies, by *$u_1,u_2,u_3,X,Y,Z$*,\n"
+"that $\\lambda \\divides x$.\n"
+"However, this contradicts *lmm:lambda_not_dvd_x*\n"
+"forcing us to conclude that $\\lambda \\notdivides X$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L41_lambda_not_dvd_X
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L42_lambda_not_dvd_Y
+msgid "lambda_not_dvd_Y"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L42_lambda_not_dvd_Y
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides Y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L42_lambda_not_dvd_Y
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides Y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L42_lambda_not_dvd_Y
+msgid "By contradiction we assume that $\\lambda \\divides Y$, then, by the properties of divisibility,\n"
+"$\\lambda \\divides u_2 Y^3$, which implies, by *$u_1,u_2,u_3,X,Y,Z$*,\n"
+"that $\\lambda \\divides y$.\n"
+"However, this contradicts *lmm:lambda_not_dvd_y*\n"
+"forcing us to conclude that $\\lambda \\notdivides Y$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L42_lambda_not_dvd_Y
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L43_lambda_not_dvd_Z
+msgid "lambda_not_dvd_Z"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L43_lambda_not_dvd_Z
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides Z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L43_lambda_not_dvd_Z
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda \\notdivides Z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L43_lambda_not_dvd_Z
+msgid "By contradiction we assume that $\\lambda \\divides Z$, then, by the properties of divisibility,\n"
+"$\\lambda \\divides u_3 Z^3$, which implies, by *$u_1,u_2,u_3,X,Y,Z$*,\n"
+"that $\\lambda \\divides z$.\n"
+"However, this contradicts *lmm:lambda_not_dvd_z*\n"
+"forcing us to conclude that $\\lambda \\notdivides Z$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L43_lambda_not_dvd_Z
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L44_coprime_Y_Z
+msgid "coprime_Y_Z"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L44_coprime_Y_Z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(Y, Z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L44_coprime_Y_Z
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\gcd(Y, Z) = 1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L44_coprime_Y_Z
+msgid "Since $Z \\neq 0$ by *lmm:lambda_not_dvd_Z*, by the properties of PIDs it suffices to prove that\n"
+"$\\forall p \\in \\cc{O}_K$ if $p$ is prime and $p \\divides Y$, then $p \\notdivides Z$.\n"
+"Let $p \\in \\cc{O}_K$ be prime and suppose by contradiction that $p \\divides Y$ and $p \\divides Z$\n"
+"which implies that $p \\divides u_2 Y^3 = y$ and $p \\divides \\lambda u_3 Z^3 = z$.\n"
+"But this contradicts *lmm:coprime_y_z* forcing us to conclude that $p \\notdivides Z$, which,\n"
+"as stated above, implies that $\\gcd(Y,Z)=1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L44_coprime_Y_Z
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L45_formula1
+msgid "formula1"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L45_formula1
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $u_1 X^3 \\lambda^{3n-2}+u_2 \\eta Y^3 \\lambda +\n"
+"u_3 \\eta^2 Z^3 \\lambda = 0$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L45_formula1
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $u_1 X^3 \\lambda^{3n-2}+u_2 \\eta Y^3 \\lambda +\n"
+"u_3 \\eta^2 Z^3 \\lambda = 0$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L45_formula1
+msgid "Applying *$u_1,u_2,u_3,X,Y,Z$*,\n"
+"*lmm:toInteger_cube_eq_one* and *lmm:toInteger_eval_cyclo*, we have\n"
+"\\begin{align*}\n"
+"u_1 X^3 \\lambda^{3n-2}+u_2 \\eta Y^3 \\lambda + u_3 \\eta^2 Z^3 \\lambda\n"
+"&= x \\lambda^{3n-2} + \\eta y \\lambda + \\eta^2 z \\lambda \\\\\n"
+"&= (a+b) + \\eta (a+\\eta b) + \\eta^2 (a+\\eta^2 b) \\\\\n"
+"&= a (1 + \\eta + \\eta^2) + b (1 + \\eta^4 + \\eta^2) \\\\\n"
+"&= (a+b)(1+\\eta+\\eta^2)\\\\\n"
+"&= (a+b)0 = 0\n"
+"\\end{align*}"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L45_formula1
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L46_u₄'_isUnit
+msgid "u₄'_isUnit"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L46_u₄'_isUnit
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_4'$ is a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L46_u₄'_isUnit
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_4'$ is a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L46_u₄'_isUnit
+msgid "By *$u_4',u_5'$* $u_4' = \\eta u_3 u_2^{-1}$,\n"
+"which is a product of units by *lmm:eta_isUnit*.\n"
+"Since the product of units is a unit (multiplicative closure),\n"
+"it follows that $u_4'$ must also be a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L46_u₄'_isUnit
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter072
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_4 \\in \\cc{O}^\\times_K$ as the unit corresponding\n"
+"to the unit ring element $u_4'$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L47_u₅'_isUnit
+msgid "u₅'_isUnit"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L47_u₅'_isUnit
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_5'$ is a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L47_u₅'_isUnit
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_5'$ is a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L47_u₅'_isUnit
+msgid "By *$u_4',u_5'$* $u_5' = -\\eta^2 u_1 u_2^{-1}$,\n"
+"which is a product of units since $\\eta^3 = 1$ by *lmm:toInteger_cube_eq_one* and\n"
+"$-\\eta (-\\eta^2) = \\eta^3$.\n"
+"Since the product of units is a unit (multiplicative closure),\n"
+"it follows that $u_5'$ must also be a unit."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L47_u₅'_isUnit
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter073
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"We define $u_5 \\in \\cc{O}^\\times_K$ as the unit corresponding\n"
+"to the unit ring element $u_5'$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L48_formula2
+msgid "formula2"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L48_formula2
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $Y^3 + u_4 Z^3 = u_5 (\\lambda^(n-1) X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L48_formula2
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $Y^3 + u_4 Z^3 = u_5 (\\lambda^(n-1) X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L48_formula2
+msgid "Using *lmm:eta_isUnit*, *lmm:lambda_ne_zero*, it suffices to show that\n"
+"$$\\lambda \\eta u_2 (Y^3 + u_4 Z^3) = \\lambda \\eta u_2 u_5 (\\lambda^(n-1) X)^3$$\n"
+"which can be proved by simple calculations involving *lmm:toInteger_cube_eq_one*,\n"
+"*lmm:Solution_two_le_multiplicity* and *lmm:formula1*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L48_formula2
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L49_lambda_sq_div_lambda_fourth
+msgid "lambda_sq_div_lambda_fourth"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L49_lambda_sq_div_lambda_fourth
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\divides \\lambda^4$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L49_lambda_sq_div_lambda_fourth
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $\\lambda^2 \\divides \\lambda^4$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L49_lambda_sq_div_lambda_fourth
+msgid "Straightforward application of the definition of divisibility."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L49_lambda_sq_div_lambda_fourth
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L50_lambda_sq_div_new_X_cubed
+msgid "lambda_sq_div_new_X_cubed"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L50_lambda_sq_div_new_X_cubed
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\lambda^2 \\divides u_5 (\\lambda^{n - 1} X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L50_lambda_sq_div_new_X_cubed
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $\\lambda^2 \\divides u_5 (\\lambda^{n - 1} X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L50_lambda_sq_div_new_X_cubed
+msgid "Using *lmm:Solution_two_le_multiplicity*, we have that $\\lambda^2 \\divides\n"
+"\\lambda^2 u_5 \\lambda^{3n-5} X^3 = u_5 (\\lambda^{n - 1} X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L50_lambda_sq_div_new_X_cubed
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L51_by_kummer
+msgid "by_kummer"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L51_by_kummer
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_4 \\in \\set{-1,1} \\subset \\cc{O}_K$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L51_by_kummer
+msgid "Let $S$ be a $solution$.\\\\\\\\\n"
+"Then $u_4 \\in \\set{-1,1} \\subset \\cc{O}_K$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L51_by_kummer
+msgid "Let $n \\in \\N$ be the multiplicity of the solution $S$.\\\\\n"
+"By *lmm:eq_one_or_neg_one_of_unit_of_congruent*, it suffices to prove that\n"
+"$$\\exists m \\in \\Z \\text{ such that } \\lambda^2 \\divides u_4 - m.$$\n"
+"By *lmm:lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd*\n"
+"and *lmm:lambda_not_dvd_Y*, we have that\n"
+"$$(\\lambda^4 \\divides Y^3 - 1) \\lor (\\lambda^4 \\divides Y^3 + 1).$$\n"
+"By *lmm:lambda_pow_four_dvd_cube_sub_one_or_add_one_of_lambda_not_dvd*\n"
+"and *lmm:lambda_not_dvd_Z*, we have that\n"
+"$$(\\lambda^4 \\divides Z^3 - 1) \\lor (\\lambda^4 \\divides Z^3 + 1).$$\n"
+"We proceed by analysing each case:\n"
+"\\begin{itemize}\n"
+"\\item Case $(\\lambda^4 \\divides Y^3 - 1) \\land (\\lambda^4 \\divides Z^3 - 1)$. \\\\\n"
+"Let $m=-1$ and consider the fact that\n"
+"$$u_4 - m = Y^3 + u_4 Z^3 - (Y^3 - 1) - u_4 (Z^3 - 1).$$\n"
+"By *lmm:formula2*, we have that\n"
+"$$u_4 - m = u_5 (\\lambda^{n-1} X)^3 - (Y^3 - 1) - u_4 (Z^3 - 1).$$\n"
+"Since, by *lmm:lambda_sq_div_new_X_cubed*, we know that\n"
+"$$\\lambda^2 \\divides u_5 (\\lambda^{n-1} X)^3$$\n"
+"and, by *lmm:lambda_sq_div_lambda_fourth* and by assumption, we have that\n"
+"$$\\lambda^2 \\divides Y^3 - 1 \\land \\lambda^2 \\divides Z^3 - 1,$$\n"
+"Then, we can conclude that\n"
+"$$\\lambda^2 \\divides u_4 - m.$$\n"
+"\\item Case $(\\lambda^4 \\divides Y^3 - 1) \\land (\\lambda^4 \\divides Z^3 + 1)$. \\\\\n"
+"Let $m=1$ and proceed similarly to the first case.\n"
+"\\item Case $(\\lambda^4 \\divides Y^3 + 1) \\land (\\lambda^4 \\divides Z^3 - 1)$. \\\\\n"
+"Let $m=1$ and proceed similarly to the first case.\n"
+"\\item Case $(\\lambda^4 \\divides Y^3 + 1) \\land (\\lambda^4 \\divides Z^3 + 1)$. \\\\\n"
+"Let $m=-1$ and proceed similarly to the first case.\n"
+"\\end{itemize}"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L51_by_kummer
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L52_final
+msgid "final"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L52_final
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $Y^3 + (u_4 Z)^3 = u_5 (\\lambda^{n-1} X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L52_final
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $Y^3 + (u_4 Z)^3 = u_5 (\\lambda^{n-1} X)^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L52_final
+msgid "By *lmm:by_kummer*, we have that $u_4 \\in \\set{-1,1}$, which implies that $u_4^2 = 1$.\\\\\n"
+"Therefore, by *lmm:formula2*, we can conclude that\n"
+"$$Y^3 + (u_4 Z)^3 = u_5 (\\lambda^{n-1} X)^3.$$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L52_final
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Generated.DefsAfter078
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $S = (a,b,c,u)$ be a $solution$ with multiplicity $n$.\\\\\n"
+"Let $S_f' = (Y,u_4 Z, \\lambda^{n-1} X, u_5)$.\\\\\\\\\n"
+"Then $S_f'$ is a $solution'$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L53_Solution'_final_multiplicity
+msgid "Solution'_final_multiplicity"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L53_Solution'_final_multiplicity
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $S_f'$ has multiplicity $n-1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L53_Solution'_final_multiplicity
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $S_f'$ has multiplicity $n-1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L53_Solution'_final_multiplicity
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $(a',b',c',u') = S_f'$ be the final $solution'$, then\n"
+"$\\lambda^{n-1} \\divides \\lambda^{n-1} X = c'$.\n"
+"By contradiction we assume that $\\lambda^n \\divides c'$ which implies that $\\lambda \\divides X$,\n"
+"that contradicts *lmm:lambda_not_dvd_X* forcing us to conclude\n"
+"that $\\lambda^{n} \\notdivides c'$. Then $S_f'$ has multiplicity $n-1$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L53_Solution'_final_multiplicity
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L54_Solution'_final_multiplicity_lt
+msgid "Solution'_final_multiplicity_lt"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L54_Solution'_final_multiplicity_lt
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $S_f'$ has multiplicity $m<n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L54_Solution'_final_multiplicity_lt
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then $S_f'$ has multiplicity $m<n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L54_Solution'_final_multiplicity_lt
+msgid "It directly follows from *lmm:Solution1_final_multiplicity* since $m = n-1 < n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L54_Solution'_final_multiplicity_lt
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L55_exists_Solution_multiplicity_lt
+msgid "exists_Solution_multiplicity_lt"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L55_exists_Solution_multiplicity_lt
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then there is a $solution$ with multiplicity $m<n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L55_exists_Solution_multiplicity_lt
+msgid "Let $S$ be a $solution$ with multiplicity $n$.\\\\\\\\\n"
+"Then there is a $solution$ with multiplicity $m<n$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L55_exists_Solution_multiplicity_lt
+msgid "It directly follows from *lmm:Solution1_final_multiplicity* and\n"
+"*lmm:Solution1_final_multiplicity_lt*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L55_exists_Solution_multiplicity_lt
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L56_fermatLastTheoremForThreeGen
+msgid "Generalised Fermat's Last Theorem for Exponent $3$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L56_fermatLastTheoremForThreeGen
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $a, b, c \\in \\cc{O}_K$ and $u \\in \\cc{O}^\\times_K$ such that $c \\neq 0$ and $\\gcd(a,b)=1$.\\\\\n"
+"Let $\\lambda \\notdivides a$, $\\lambda \\notdivides b$ and $\\lambda \\divides c$. \\\\\\\\\n"
+"Then $a^3 + b^3 \\neq u c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L56_fermatLastTheoremForThreeGen
+msgid "Let $K = \\Q(\\zeta_3)$ be the third cyclotomic field. \\\\\n"
+"Let $\\cc{O}_K = \\Z[\\zeta_3]$ be the ring of integers of $K$. \\\\\n"
+"Let $\\cc{O}^\\times_K$ be the group of units of $\\cc{O}_K$. \\\\\n"
+"Let $\\zeta_3 \\in K$ be any primitive third root of unity. \\\\\n"
+"Let $\\eta \\in \\cc{O}_K$ be the element corresponding to $\\zeta_3 \\in K$. \\\\\n"
+"Let $\\lambda \\in \\cc{O}_K$ be such that $\\lambda = \\eta -1$. \\\\\n"
+"Let $a, b, c \\in \\cc{O}_K$ and $u \\in \\cc{O}^\\times_K$ such that $c \\neq 0$ and $\\gcd(a,b)=1$.\\\\\n"
+"Let $\\lambda \\notdivides a$, $\\lambda \\notdivides b$ and $\\lambda \\divides c$. \\\\\\\\\n"
+"Then $a^3 + b^3 \\neq u c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L56_fermatLastTheoremForThreeGen
+msgid "By contradiction we assume that there are $a, b, c \\in \\cc{O}_K$ and $u \\in \\cc{O}^\\times_K$\n"
+"such that $c \\neq 0$, $\\gcd(a,b)=1$, $\\lambda \\notdivides a$, $\\lambda \\notdivides b$,\n"
+"$\\lambda \\divides c$ and $a^3 + b^3 = u c^3$.\n"
+"Then $S'=(a,b,c,u)$ is a $solution'$, which implies that there is a $solution$ $S$ by\n"
+"*lmm:exists_Solution_of_Solution1*.\n"
+"Then, by *lmm:exists_minimal*, there is a minimal solution $S_0$ with multiplicity $n$.\n"
+"Hence, there is a $solution'$ $S_1'$ with multiplicity $m<n$ by *lmm:exists_Solution_multiplicity_lt*,\n"
+"which implies that there is a $solution$ $S_1$  with multiplicity $m$ by *lmm:exists_Solution_of_Solution1*.\n"
+"However, this contradicts the minimality of $S_0$\n"
+"forcing us to conclude that $a^3 + b^3 \\neq u c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L56_fermatLastTheoremForThreeGen
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L57_FermatLastTheoremForThree_of_FermatLastTheoremThreeGen
+msgid "FermatLastTheoremForThree_of_FermatLastTheoremThreeGen"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L57_FermatLastTheoremForThree_of_FermatLastTheoremThreeGen
+msgid "To prove *Fermat's Last Theorem for Exponent $3$*,\n"
+"it suffices to prove *Generalised Fermat's Last Theorem for Exponent $3$*. \\\\\n"
+"Equivalently, *Generalised Fermat's Last Theorem for Exponent $3$* implies\n"
+"*Fermat's Last Theorem for Exponent $3$*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L57_FermatLastTheoremForThree_of_FermatLastTheoremThreeGen
+msgid "To prove *Fermat's Last Theorem for Exponent $3$*,\n"
+"it suffices to prove *Generalised Fermat's Last Theorem for Exponent $3$*. \\\\\n"
+"Equivalently, *Generalised Fermat's Last Theorem for Exponent $3$* implies\n"
+"*Fermat's Last Theorem for Exponent $3$*."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L57_FermatLastTheoremForThree_of_FermatLastTheoremThreeGen
+msgid "Assume that $\\forall a, b, c \\in \\cc{O}_K,\\, \\forall u \\in \\cc{O}^\\times_K$ such that $c \\neq 0$,\n"
+"$\\gcd(a,b)=1$, $\\lambda \\notdivides a$, $\\lambda \\notdivides b$ and $\\lambda \\divides c$,\n"
+"it holds that $a^3 + b^3 \\neq u c^3$.\n"
+"Let $a, b, c \\in \\Z$ such that $a\\neq 0$, $b\\neq 0$ and $c\\neq 0$.\n"
+"By *thm:fermatLastTheoremThree_of_three_dvd_only_c*, we can assume that\n"
+"$\\gcd(a,b)=1$, $3 \\notdivides a$, $3 \\notdivides b$, $3 \\divides c$.\n"
+"By contradiction we assume that $a^3 + b^3 = c^3$ and let $u = 1$.\n"
+"\\begin{itemize}\n"
+"\\item By contradiction we assume that $\\lambda \\divides a$, which implies that the norm of\n"
+"$\\lambda$ divides $a$ by *lmm:norm_lambda_prime*, which implies that $3 \\divides a$ by\n"
+"*lmm:norm_lambda*, that contradicts the assumption that $3 \\notdivides a$ forcing us\n"
+"to conclude that $\\lambda \\notdivides a$.\n"
+"\\item By contradiction we assume that $\\lambda \\divides b$, which implies that the norm of\n"
+"$\\lambda$ divides $b$ by *lmm:norm_lambda_prime*, which implies that $3 \\divides b$ by\n"
+"*lmm:norm_lambda*, that contradicts the assumption that $3 \\notdivides b$ forcing us\n"
+"to conclude that $\\lambda \\notdivides b$.\n"
+"\\item $\\lambda \\divides 3$ by *lmm:lambda_dvd_three* and $3 \\divides c$,\n"
+"then $\\lambda \\divides c$.\n"
+"\\end{itemize}\n"
+"By our first assumption $a^3 + b^3 \\neq u c^3 = 1 c^3 = c^3 = a^3 + b^3$ which is absurd."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L57_FermatLastTheoremForThree_of_FermatLastTheoremThreeGen
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L58_fermatLastTheoremThree
+msgid "Fermat's Last Theorem for Exponent $3$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L58_fermatLastTheoremThree
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $a \\neq 0$, $b \\neq 0$ and $c \\neq 0$. \\\\\\\\\n"
+"Then $a^3 + b^3 \\neq c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L58_fermatLastTheoremThree
+msgid "Let $a, b, c \\in \\N$. \\\\\n"
+"Let $a \\neq 0$, $b \\neq 0$ and $c \\neq 0$. \\\\\\\\\n"
+"Then $a^3 + b^3 \\neq c^3$."
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L58_fermatLastTheoremThree
+msgid "By *lmm:FermatLastTheoremForThree_of_FermatLastTheoremThreeGen*\n"
+"and *Generalised Fermat's Last Theorem for Exponent $3$*, we can conclude that\n"
+"$$a^3 + b^3 \\neq c^3.$$"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3.L58_fermatLastTheoremThree
+msgid "Level completed! 🎉"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3
+msgid "Fermat's Last Theorem for Exponent 3"
+msgstr ""
+
+#: Game.Levels.FermatSLastTheoremForExponent3
+msgid "Welcome to the world *Fermat's Last Theorem for Exponent 3*."
+msgstr ""
+
+#: Game
+msgid "FLT3-proofquest-game"
+msgstr ""
+
+#: Game
+msgid "Prove the theorems of this project, level by level, following its blueprint."
+msgstr ""
+
+#: Game
+msgid "This game was generated automatically by\n"
+"[proofquest](https://github.com/Mezzovilla/proofquest) from the project's\n"
+"leanblueprint."
+msgstr ""
+
+#: Game
+msgid "FLT3-proofquest-game"
+msgstr ""
+
+#: Game
+msgid "A game generated from a leanblueprint dependency graph, where you\n"
+"prove the theorems of the original project guided by its LaTeX write-up."
+msgstr ""
